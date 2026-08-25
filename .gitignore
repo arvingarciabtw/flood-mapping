@@ -1,3 +1,5 @@
 venv
 images
 *.zip
+__pycache__/
+*.py[cod]

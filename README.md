@@ -27,7 +27,7 @@ source venv/bin/activate.fish  # Fish shell
 3. Install dependencies:
 
 ```bash
-pip install gallery-dl
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -47,3 +47,54 @@ Images will be saved to the `images/` folder. Make sure to change the `CSV_FILE`
 - **Records:** 1,000 tweets
 - **Images:** 195 downloaded
 - **Cities covered:** Pasig, Marikina, Manila
+
+## Facebook Images
+
+`download_facebook_images.py` downloads photo attachments labeled `mild`,
+`moderate`, or `severe` from `data/data-facebook/typhoons_annotated.csv`.
+It skips videos, deduplicates photos by Facebook ID, validates downloaded files,
+and stores resumable state under the output directory.
+
+First, verify the input selection without making network requests:
+
+```bash
+python download_facebook_images.py --dry-run
+```
+
+Run a small authenticated pilot using a browser profile logged into Facebook:
+
+```bash
+python download_facebook_images.py \
+  --cookies-from-browser zen \
+  --limit 25
+```
+
+Remove `--limit` for the full run. Any unresolved download makes the command
+exit nonzero and remains visible in `manifest.csv`. After fixing authentication,
+waiting out a temporary block, or reviewing another extraction error, retry with:
+
+```bash
+python download_facebook_images.py \
+  --cookies-from-browser zen \
+  --retry-failed
+```
+
+Images, logs, SQLite state, and `manifest.csv` are written to
+`images/facebook-typhoons/`, which is ignored by Git. Photos that Facebook no
+longer exposes are recorded as `unavailable` without stopping the remaining
+downloads.
+
+After the initial run, retry failed photos through their row-level Facebook
+post URLs. Start with a small post pilot:
+
+```bash
+python download_facebook_images.py \
+  --cookies-from-browser zen \
+  --recover-from-posts \
+  --post-limit 5
+```
+
+Remove `--post-limit` to process all remaining failed photos. Post recovery
+groups attachments by post and matches each downloaded image to its exact
+Facebook photo ID. If Zen is open and its newest login cookies have not yet
+been written to disk, close Zen before running the command.

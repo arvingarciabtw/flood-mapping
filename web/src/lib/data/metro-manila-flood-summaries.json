@@ -1,0 +1,3794 @@
+{
+	"PH1303901": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307402": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901001": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901002": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901003": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901004": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901005": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901006": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901007": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901008": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901009": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901010": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901011": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901012": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901013": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901014": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901015": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901016": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901017": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901018": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901019": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901020": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901025": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901026": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901028": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901029": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901030": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901031": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901032": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901033": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901034": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901035": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901036": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901037": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901038": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901039": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901041": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901042": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901043": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901044": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901045": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901046": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901047": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901048": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901049": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901050": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901051": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901052": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901053": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901054": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901055": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901056": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901057": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901058": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901059": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901060": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901061": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901062": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901063": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901064": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901065": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901066": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901067": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901068": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901069": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901070": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901071": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901072": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901073": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901074": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901075": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901076": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901077": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901078": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901079": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901080": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901081": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901082": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901083": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901084": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901085": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901086": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901087": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901088": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901089": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901090": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901091": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901092": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901093": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901094": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901095": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901096": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901097": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901098": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901099": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901100": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901101": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901102": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901103": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901104": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901105": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901106": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901107": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901108": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901109": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901110": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901111": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901112": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901116": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901117": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901118": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901119": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901120": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901121": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901122": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901123": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901124": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901125": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901126": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901127": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901128": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901129": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901130": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901131": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901132": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901133": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901134": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901135": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901136": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901137": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901138": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901139": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901140": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901141": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901142": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901143": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901144": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901145": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901146": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901147": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901148": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901149": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901150": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901151": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901152": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901153": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901154": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901155": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901156": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901157": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901158": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901159": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901160": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901161": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901162": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901163": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901164": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901165": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901166": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901167": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901168": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901169": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901170": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901171": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901172": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901173": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901174": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901175": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901176": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901177": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901178": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901179": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901180": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901181": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901182": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901183": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901184": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901185": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901186": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901187": {
+		"classes": ["Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901188": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901189": {
+		"classes": ["Moderate"],
+		"summary": "Moderate"
+	},
+	"PH1303901190": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901191": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901192": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901193": {
+		"classes": ["Moderate"],
+		"summary": "Moderate"
+	},
+	"PH1303901194": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901195": {
+		"classes": ["Moderate"],
+		"summary": "Moderate"
+	},
+	"PH1303901196": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901197": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901198": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901199": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901200": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901201": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901202": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901922": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901203": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901204": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901205": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901206": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901207": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901208": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901209": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901210": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901211": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901212": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901213": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901214": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901215": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901216": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901217": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901218": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901219": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901220": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901221": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901222": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901223": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901224": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901225": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901226": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901227": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901228": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901229": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901230": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901231": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901232": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901233": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901234": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901235": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901236": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901237": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901238": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901239": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901240": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901241": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901242": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901243": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901244": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901245": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901246": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901247": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901248": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901249": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901250": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901251": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901252": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901253": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901254": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901255": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901256": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901257": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901258": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901259": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901260": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901261": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901262": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901263": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901264": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901265": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901266": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901267": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901906": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901907": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901287": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901288": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901289": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901290": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901291": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901292": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901293": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901294": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901295": {
+		"classes": ["Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901296": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901383": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901384": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901385": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901386": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901387": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901388": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901389": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901390": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901391": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901392": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901393": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901394": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901306": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901307": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901308": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901309": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901268": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901269": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901270": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901271": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901272": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901273": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901274": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901275": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901276": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901281": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901282": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901283": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901284": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901285": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901286": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901297": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901298": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901299": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901300": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901301": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901302": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901303": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901304": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901305": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901310": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901311": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901312": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901313": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901314": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901315": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901316": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901317": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901318": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901319": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901320": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901321": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901322": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901323": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901324": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901325": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901326": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901327": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901328": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901329": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901330": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901331": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901332": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901333": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901334": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901335": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901336": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901337": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901338": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901339": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901340": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901341": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901342": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901343": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901344": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901345": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901346": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901347": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901348": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901349": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901350": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901351": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901352": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901353": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901354": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901355": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901356": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901357": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901358": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901359": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901360": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901361": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901362": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901363": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901364": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901365": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901366": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901367": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901368": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901369": {
+		"classes": ["Moderate"],
+		"summary": "Moderate"
+	},
+	"PH1303901370": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901371": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901372": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901373": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901374": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901375": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901376": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901377": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901378": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901379": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901380": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901381": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901382": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901395": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901396": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901397": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901398": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901399": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901400": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901401": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901402": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901403": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901404": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901405": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901406": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901407": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901408": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901409": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901410": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901411": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901412": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901413": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901414": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901415": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901416": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901417": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901418": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901419": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901420": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901421": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901422": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901423": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901424": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901425": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901426": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901427": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901428": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901429": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901430": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901431": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901432": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901433": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901434": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901435": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901436": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901437": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901438": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901439": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901440": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901441": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901442": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901443": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901444": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901445": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901446": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901447": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901448": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901449": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901450": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901451": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901452": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901453": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901454": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901455": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901456": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901457": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901458": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901459": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901460": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901461": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901462": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901463": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901464": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901465": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901466": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901467": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901468": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901469": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901470": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901471": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901472": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901473": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901474": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901475": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901476": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901477": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901478": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901479": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901480": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901481": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901482": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901483": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901484": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901485": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901486": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901487": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901488": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901489": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901490": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901491": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901492": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901493": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901494": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901495": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901496": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901497": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901498": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901499": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901500": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901501": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901502": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901503": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901504": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901505": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901506": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901507": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901508": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901509": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901510": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901511": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901512": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901513": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901514": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901515": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901516": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901517": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901518": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901519": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901520": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901521": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901522": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901523": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901524": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901525": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901526": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901527": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901528": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901529": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901530": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901531": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901532": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901533": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901534": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901535": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901536": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901537": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901538": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901539": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901540": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901541": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901542": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901543": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901544": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901545": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901546": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901547": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901548": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901549": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901550": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901551": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901552": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901553": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901554": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901555": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901556": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901557": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901558": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901559": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901560": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901561": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901562": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901563": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901564": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901565": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901566": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901567": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901568": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901569": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901570": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901571": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901572": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901573": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901574": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901575": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901576": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901577": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901578": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901579": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901580": {
+		"classes": ["Moderate"],
+		"summary": "Moderate"
+	},
+	"PH1303901581": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901582": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901583": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901584": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901585": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901586": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901587": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901987": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901588": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901589": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901590": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901591": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901592": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901593": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901594": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901595": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901596": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901597": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901598": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901599": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901600": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901601": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901602": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901603": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901604": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901605": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901606": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901607": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901608": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901609": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901610": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901611": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901612": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901613": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901614": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901615": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901616": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901617": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901618": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901619": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901620": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901621": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901622": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901623": {
+		"classes": ["Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901624": {
+		"classes": ["Moderate"],
+		"summary": "Moderate"
+	},
+	"PH1303901625": {
+		"classes": ["Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901626": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901627": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901628": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901629": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901630": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901631": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901632": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901633": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901634": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901635": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901636": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901637": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901638": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901639": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901640": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901641": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901642": {
+		"classes": ["Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901643": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901644": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901645": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901646": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901647": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901648": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901659": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901959": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901660": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901960": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901661": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901666": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901667": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901668": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901669": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901670": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901663": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901963": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901664": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901654": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901655": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901656": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901657": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901658": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901689": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901690": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901691": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901692": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901693": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901694": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901695": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901696": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901697": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901698": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901699": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901700": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901701": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901702": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901703": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901704": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901705": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901706": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901707": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901708": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901709": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901710": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901711": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901712": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901713": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901714": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901715": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901716": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901717": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901718": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901719": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901720": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901721": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901722": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901723": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901724": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901725": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901726": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901727": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901728": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901729": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901730": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901731": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901732": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901733": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901738": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901739": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901740": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901741": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901742": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901743": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901744": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901688": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901735": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901736": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901737": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901734": {
+		"classes": ["Moderate"],
+		"summary": "Moderate"
+	},
+	"PH1303901662": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901964": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901671": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901672": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901673": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901674": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901675": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901676": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901677": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901678": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901679": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901680": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901681": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901682": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901683": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901684": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901685": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901809": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901810": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901811": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901812": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901813": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901814": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901815": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901816": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901817": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901818": {
+		"classes": ["Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901819": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901820": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901821": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901822": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901823": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901824": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901825": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901826": {
+		"classes": ["Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901827": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901828": {
+		"classes": ["Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901829": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901830": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901831": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901832": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901686": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901687": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901833": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901834": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901835": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901836": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901837": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901838": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901839": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901840": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901841": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901842": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901843": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901844": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901845": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901846": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901847": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901848": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901849": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901850": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901851": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901852": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901853": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901855": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901856": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901857": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901858": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901859": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901860": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901861": {
+		"classes": ["Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901862": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901863": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901864": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901865": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901867": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901868": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901870": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901871": {
+		"classes": ["Moderate"],
+		"summary": "Moderate"
+	},
+	"PH1303901872": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901869": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901649": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901650": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901651": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901652": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901653": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901745": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901746": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901747": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901748": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901749": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901750": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901751": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901752": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901753": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901755": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901756": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901757": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901758": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901759": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901760": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901761": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901762": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901763": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901764": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901765": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901766": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901767": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901768": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901769": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901770": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901771": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901772": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901773": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901774": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901775": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901776": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901777": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901778": {
+		"classes": [],
+		"summary": "NoData"
+	},
+	"PH1303901779": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901780": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901781": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901782": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901783": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901784": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901785": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901786": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901787": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901788": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901789": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901790": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901791": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901792": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901793": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901794": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901795": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901796": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901797": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901798": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901799": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901800": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901801": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901802": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901803": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901804": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901805": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901806": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1303901807": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901866": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901873": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901874": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901875": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901876": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901877": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901878": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901879": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901880": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901881": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901882": {
+		"classes": ["Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901883": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901884": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901885": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901886": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901887": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901888": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901889": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901890": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901891": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901892": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901893": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901894": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901895": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901896": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901897": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901898": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901899": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901900": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901901": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901902": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901903": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901904": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901905": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1303901754": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901808": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1303901918": {
+		"classes": ["Moderate"],
+		"summary": "Moderate"
+	},
+	"PH1307402001": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307402002": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307402003": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307402004": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307402005": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307402006": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307402007": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307402008": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307402009": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307402010": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307402011": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307402012": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307402013": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307402014": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307402015": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307402016": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403001": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403002": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1307403003": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1307403004": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403005": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403006": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403007": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1307403008": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403009": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403010": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1307403011": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403012": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403013": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403014": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1307403015": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403016": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403017": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403018": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1307403019": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403020": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1307403021": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403022": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403023": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1307403024": {
+		"classes": ["Mild"],
+		"summary": "Mild"
+	},
+	"PH1307403025": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403026": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1307403027": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403028": {
+		"classes": ["Mild", "Moderate"],
+		"summary": "Mixed"
+	},
+	"PH1307403029": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	},
+	"PH1307403030": {
+		"classes": ["Mild", "Moderate", "Severe"],
+		"summary": "Mixed"
+	}
+}

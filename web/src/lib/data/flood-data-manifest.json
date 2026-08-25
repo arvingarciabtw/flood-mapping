@@ -1,0 +1,7 @@
+{
+	"generatedAt": "2026-08-25T02:41:04.824Z",
+	"coverage": ["City of Manila", "City of Marikina", "City of Pasig"],
+	"returnPeriod": "5-year",
+	"sourceField": "Var",
+	"tilePath": "/metro-manila-flood-5yr-tiles/{z}/{x}/{y}.pbf"
+}

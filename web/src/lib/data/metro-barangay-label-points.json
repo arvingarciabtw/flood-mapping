@@ -1,0 +1,5678 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "PH1303901001",
+			"properties": { "id": "PH1303901001", "name": "Barangay 1" },
+			"geometry": { "type": "Point", "coordinates": [120.96687558000001, 14.60437901] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901002",
+			"properties": { "id": "PH1303901002", "name": "Barangay 2" },
+			"geometry": { "type": "Point", "coordinates": [120.96747948, 14.60510023] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901003",
+			"properties": { "id": "PH1303901003", "name": "Barangay 3" },
+			"geometry": { "type": "Point", "coordinates": [120.96815625000001, 14.60577751] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901004",
+			"properties": { "id": "PH1303901004", "name": "Barangay 4" },
+			"geometry": { "type": "Point", "coordinates": [120.96684459, 14.60733734] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901005",
+			"properties": { "id": "PH1303901005", "name": "Barangay 5" },
+			"geometry": { "type": "Point", "coordinates": [120.96638459, 14.60814935] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901006",
+			"properties": { "id": "PH1303901006", "name": "Barangay 6" },
+			"geometry": { "type": "Point", "coordinates": [120.96781157, 14.6091613] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901007",
+			"properties": { "id": "PH1303901007", "name": "Barangay 7" },
+			"geometry": { "type": "Point", "coordinates": [120.96904806000001, 14.60638851] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901008",
+			"properties": { "id": "PH1303901008", "name": "Barangay 8" },
+			"geometry": { "type": "Point", "coordinates": [120.97014584, 14.6087453] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901009",
+			"properties": { "id": "PH1303901009", "name": "Barangay 9" },
+			"geometry": { "type": "Point", "coordinates": [120.96997614, 14.60718247] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901010",
+			"properties": { "id": "PH1303901010", "name": "Barangay 10" },
+			"geometry": { "type": "Point", "coordinates": [120.97037735000001, 14.6062053] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901011",
+			"properties": { "id": "PH1303901011", "name": "Barangay 11" },
+			"geometry": { "type": "Point", "coordinates": [120.96564261, 14.60176753] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901012",
+			"properties": { "id": "PH1303901012", "name": "Barangay 12" },
+			"geometry": { "type": "Point", "coordinates": [120.96518428, 14.60075647] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901013",
+			"properties": { "id": "PH1303901013", "name": "Barangay 13" },
+			"geometry": { "type": "Point", "coordinates": [120.9659696, 14.60301987] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901014",
+			"properties": { "id": "PH1303901014", "name": "Barangay 14" },
+			"geometry": { "type": "Point", "coordinates": [120.96680279, 14.60250674] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901015",
+			"properties": { "id": "PH1303901015", "name": "Barangay 15" },
+			"geometry": { "type": "Point", "coordinates": [120.96489762, 14.60290735] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901016",
+			"properties": { "id": "PH1303901016", "name": "Barangay 16" },
+			"geometry": { "type": "Point", "coordinates": [120.96515111, 14.60220857] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901017",
+			"properties": { "id": "PH1303901017", "name": "Barangay 17" },
+			"geometry": { "type": "Point", "coordinates": [120.96370377, 14.60164091] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901018",
+			"properties": { "id": "PH1303901018", "name": "Barangay 18" },
+			"geometry": { "type": "Point", "coordinates": [120.96378269, 14.60056714] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901019",
+			"properties": { "id": "PH1303901019", "name": "Barangay 19" },
+			"geometry": { "type": "Point", "coordinates": [120.96362464000001, 14.6023975] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901020",
+			"properties": { "id": "PH1303901020", "name": "Barangay 20" },
+			"geometry": { "type": "Point", "coordinates": [120.95051399, 14.60631431] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901025",
+			"properties": { "id": "PH1303901025", "name": "Barangay 25" },
+			"geometry": { "type": "Point", "coordinates": [120.96547173, 14.60404513] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901026",
+			"properties": { "id": "PH1303901026", "name": "Barangay 26" },
+			"geometry": { "type": "Point", "coordinates": [120.96506972, 14.60542704] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901028",
+			"properties": { "id": "PH1303901028", "name": "Barangay 28" },
+			"geometry": { "type": "Point", "coordinates": [120.96313847, 14.60392977] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901029",
+			"properties": { "id": "PH1303901029", "name": "Barangay 29" },
+			"geometry": { "type": "Point", "coordinates": [120.96146874, 14.60334051] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901030",
+			"properties": { "id": "PH1303901030", "name": "Barangay 30" },
+			"geometry": { "type": "Point", "coordinates": [120.96106514, 14.60388528] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901031",
+			"properties": { "id": "PH1303901031", "name": "Barangay 31" },
+			"geometry": { "type": "Point", "coordinates": [120.96395255, 14.60477702] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901032",
+			"properties": { "id": "PH1303901032", "name": "Barangay 32" },
+			"geometry": { "type": "Point", "coordinates": [120.9642622, 14.60356374] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901033",
+			"properties": { "id": "PH1303901033", "name": "Barangay 33" },
+			"geometry": { "type": "Point", "coordinates": [120.96359696, 14.60606529] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901034",
+			"properties": { "id": "PH1303901034", "name": "Barangay 34" },
+			"geometry": { "type": "Point", "coordinates": [120.96280007, 14.60587173] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901035",
+			"properties": { "id": "PH1303901035", "name": "Barangay 35" },
+			"geometry": { "type": "Point", "coordinates": [120.96481161, 14.60627001] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901036",
+			"properties": { "id": "PH1303901036", "name": "Barangay 36" },
+			"geometry": { "type": "Point", "coordinates": [120.96407797000001, 14.60754125] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901037",
+			"properties": { "id": "PH1303901037", "name": "Barangay 37" },
+			"geometry": { "type": "Point", "coordinates": [120.96208706, 14.60734944] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901038",
+			"properties": { "id": "PH1303901038", "name": "Barangay 38" },
+			"geometry": { "type": "Point", "coordinates": [120.96226322, 14.60564248] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901039",
+			"properties": { "id": "PH1303901039", "name": "Barangay 39" },
+			"geometry": { "type": "Point", "coordinates": [120.95992986, 14.60610279] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901041",
+			"properties": { "id": "PH1303901041", "name": "Barangay 41" },
+			"geometry": { "type": "Point", "coordinates": [120.96267909, 14.60837645] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901042",
+			"properties": { "id": "PH1303901042", "name": "Barangay 42" },
+			"geometry": { "type": "Point", "coordinates": [120.96330643, 14.60835792] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901043",
+			"properties": { "id": "PH1303901043", "name": "Barangay 43" },
+			"geometry": { "type": "Point", "coordinates": [120.96199029, 14.60880318] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901044",
+			"properties": { "id": "PH1303901044", "name": "Barangay 44" },
+			"geometry": { "type": "Point", "coordinates": [120.96001021, 14.60863203] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901045",
+			"properties": { "id": "PH1303901045", "name": "Barangay 45" },
+			"geometry": { "type": "Point", "coordinates": [120.96489429, 14.60798729] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901046",
+			"properties": { "id": "PH1303901046", "name": "Barangay 46" },
+			"geometry": { "type": "Point", "coordinates": [120.96385505000001, 14.60889734] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901047",
+			"properties": { "id": "PH1303901047", "name": "Barangay 47" },
+			"geometry": { "type": "Point", "coordinates": [120.96538888000001, 14.60906501] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901048",
+			"properties": { "id": "PH1303901048", "name": "Barangay 48" },
+			"geometry": { "type": "Point", "coordinates": [120.97138526000001, 14.60843701] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901049",
+			"properties": { "id": "PH1303901049", "name": "Barangay 49" },
+			"geometry": { "type": "Point", "coordinates": [120.97093755, 14.60694787] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901050",
+			"properties": { "id": "PH1303901050", "name": "Barangay 50" },
+			"geometry": { "type": "Point", "coordinates": [120.97234733000001, 14.61347062] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901051",
+			"properties": { "id": "PH1303901051", "name": "Barangay 51" },
+			"geometry": { "type": "Point", "coordinates": [120.97195768, 14.61084447] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901052",
+			"properties": { "id": "PH1303901052", "name": "Barangay 52" },
+			"geometry": { "type": "Point", "coordinates": [120.97139903, 14.61391612] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901053",
+			"properties": { "id": "PH1303901053", "name": "Barangay 53" },
+			"geometry": { "type": "Point", "coordinates": [120.97273497, 14.61517237] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901054",
+			"properties": { "id": "PH1303901054", "name": "Barangay 54" },
+			"geometry": { "type": "Point", "coordinates": [120.97305817, 14.61660096] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901055",
+			"properties": { "id": "PH1303901055", "name": "Barangay 55" },
+			"geometry": { "type": "Point", "coordinates": [120.97163991, 14.61684079] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901056",
+			"properties": { "id": "PH1303901056", "name": "Barangay 56" },
+			"geometry": { "type": "Point", "coordinates": [120.97037479, 14.61051222] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901057",
+			"properties": { "id": "PH1303901057", "name": "Barangay 57" },
+			"geometry": { "type": "Point", "coordinates": [120.96876424, 14.61073946] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901058",
+			"properties": { "id": "PH1303901058", "name": "Barangay 58" },
+			"geometry": { "type": "Point", "coordinates": [120.97043018, 14.6123814] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901059",
+			"properties": { "id": "PH1303901059", "name": "Barangay 59" },
+			"geometry": { "type": "Point", "coordinates": [120.96933857000001, 14.6128601] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901060",
+			"properties": { "id": "PH1303901060", "name": "Barangay 60" },
+			"geometry": { "type": "Point", "coordinates": [120.97049077, 14.6135468] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901061",
+			"properties": { "id": "PH1303901061", "name": "Barangay 61" },
+			"geometry": { "type": "Point", "coordinates": [120.9704384, 14.61587237] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901062",
+			"properties": { "id": "PH1303901062", "name": "Barangay 62" },
+			"geometry": { "type": "Point", "coordinates": [120.96722396, 14.61139353] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901063",
+			"properties": { "id": "PH1303901063", "name": "Barangay 63" },
+			"geometry": { "type": "Point", "coordinates": [120.96801316, 14.61198809] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901064",
+			"properties": { "id": "PH1303901064", "name": "Barangay 64" },
+			"geometry": { "type": "Point", "coordinates": [120.96731032, 14.61036428] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901065",
+			"properties": { "id": "PH1303901065", "name": "Barangay 65" },
+			"geometry": { "type": "Point", "coordinates": [120.96844864000001, 14.61325077] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901066",
+			"properties": { "id": "PH1303901066", "name": "Barangay 66" },
+			"geometry": { "type": "Point", "coordinates": [120.96468605, 14.61350812] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901067",
+			"properties": { "id": "PH1303901067", "name": "Barangay 67" },
+			"geometry": { "type": "Point", "coordinates": [120.96522493000001, 14.61433906] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901068",
+			"properties": { "id": "PH1303901068", "name": "Barangay 68" },
+			"geometry": { "type": "Point", "coordinates": [120.96506763, 14.61298034] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901069",
+			"properties": { "id": "PH1303901069", "name": "Barangay 69" },
+			"geometry": { "type": "Point", "coordinates": [120.96483155, 14.61072963] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901070",
+			"properties": { "id": "PH1303901070", "name": "Barangay 70" },
+			"geometry": { "type": "Point", "coordinates": [120.96498401, 14.61147233] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901071",
+			"properties": { "id": "PH1303901071", "name": "Barangay 71" },
+			"geometry": { "type": "Point", "coordinates": [120.9660822, 14.6114264] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901072",
+			"properties": { "id": "PH1303901072", "name": "Barangay 72" },
+			"geometry": { "type": "Point", "coordinates": [120.96327158, 14.61109089] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901073",
+			"properties": { "id": "PH1303901073", "name": "Barangay 73" },
+			"geometry": { "type": "Point", "coordinates": [120.96384384, 14.6106448] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901074",
+			"properties": { "id": "PH1303901074", "name": "Barangay 74" },
+			"geometry": { "type": "Point", "coordinates": [120.96639848, 14.61352178] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901075",
+			"properties": { "id": "PH1303901075", "name": "Barangay 75" },
+			"geometry": { "type": "Point", "coordinates": [120.96730961, 14.61326497] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901076",
+			"properties": { "id": "PH1303901076", "name": "Barangay 76" },
+			"geometry": { "type": "Point", "coordinates": [120.96760028, 14.61487421] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901077",
+			"properties": { "id": "PH1303901077", "name": "Barangay 77" },
+			"geometry": { "type": "Point", "coordinates": [120.96781894, 14.61569026] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901078",
+			"properties": { "id": "PH1303901078", "name": "Barangay 78" },
+			"geometry": { "type": "Point", "coordinates": [120.9687914, 14.6143087] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901079",
+			"properties": { "id": "PH1303901079", "name": "Barangay 79" },
+			"geometry": { "type": "Point", "coordinates": [120.96530289, 14.61601647] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901080",
+			"properties": { "id": "PH1303901080", "name": "Barangay 80" },
+			"geometry": { "type": "Point", "coordinates": [120.96531599, 14.61531654] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901081",
+			"properties": { "id": "PH1303901081", "name": "Barangay 81" },
+			"geometry": { "type": "Point", "coordinates": [120.9664263, 14.61534021] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901082",
+			"properties": { "id": "PH1303901082", "name": "Barangay 82" },
+			"geometry": { "type": "Point", "coordinates": [120.96654876, 14.61674503] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901083",
+			"properties": { "id": "PH1303901083", "name": "Barangay 83" },
+			"geometry": { "type": "Point", "coordinates": [120.96681915000001, 14.6180907] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901084",
+			"properties": { "id": "PH1303901084", "name": "Barangay 84" },
+			"geometry": { "type": "Point", "coordinates": [120.96678745, 14.61748057] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901085",
+			"properties": { "id": "PH1303901085", "name": "Barangay 85" },
+			"geometry": { "type": "Point", "coordinates": [120.96517201, 14.61742475] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901086",
+			"properties": { "id": "PH1303901086", "name": "Barangay 86" },
+			"geometry": { "type": "Point", "coordinates": [120.9696934, 14.61702651] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901087",
+			"properties": { "id": "PH1303901087", "name": "Barangay 87" },
+			"geometry": { "type": "Point", "coordinates": [120.9683165, 14.61742993] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901088",
+			"properties": { "id": "PH1303901088", "name": "Barangay 88" },
+			"geometry": { "type": "Point", "coordinates": [120.96911141, 14.61529305] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901089",
+			"properties": { "id": "PH1303901089", "name": "Barangay 89" },
+			"geometry": { "type": "Point", "coordinates": [120.96801843, 14.61636524] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901090",
+			"properties": { "id": "PH1303901090", "name": "Barangay 90" },
+			"geometry": { "type": "Point", "coordinates": [120.96933692, 14.6159436] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901091",
+			"properties": { "id": "PH1303901091", "name": "Barangay 91" },
+			"geometry": { "type": "Point", "coordinates": [120.96843446, 14.61874144] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901092",
+			"properties": { "id": "PH1303901092", "name": "Barangay 92" },
+			"geometry": { "type": "Point", "coordinates": [120.96660854, 14.61904699] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901093",
+			"properties": { "id": "PH1303901093", "name": "Barangay 93" },
+			"geometry": { "type": "Point", "coordinates": [120.96672551, 14.62042655] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901094",
+			"properties": { "id": "PH1303901094", "name": "Barangay 94" },
+			"geometry": { "type": "Point", "coordinates": [120.96593125, 14.62324593] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901095",
+			"properties": { "id": "PH1303901095", "name": "Barangay 95" },
+			"geometry": { "type": "Point", "coordinates": [120.96491813, 14.61961424] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901096",
+			"properties": { "id": "PH1303901096", "name": "Barangay 96" },
+			"geometry": { "type": "Point", "coordinates": [120.96376712, 14.62454369] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901097",
+			"properties": { "id": "PH1303901097", "name": "Barangay 97" },
+			"geometry": { "type": "Point", "coordinates": [120.96442997, 14.62143004] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901098",
+			"properties": { "id": "PH1303901098", "name": "Barangay 98" },
+			"geometry": { "type": "Point", "coordinates": [120.96212391, 14.62745926] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901099",
+			"properties": { "id": "PH1303901099", "name": "Barangay 99" },
+			"geometry": { "type": "Point", "coordinates": [120.96293668, 14.62732674] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901100",
+			"properties": { "id": "PH1303901100", "name": "Barangay 100" },
+			"geometry": { "type": "Point", "coordinates": [120.96069958, 14.62294027] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901101",
+			"properties": { "id": "PH1303901101", "name": "Barangay 101" },
+			"geometry": { "type": "Point", "coordinates": [120.9607605, 14.62736602] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901102",
+			"properties": { "id": "PH1303901102", "name": "Barangay 102" },
+			"geometry": { "type": "Point", "coordinates": [120.96225809000001, 14.62304921] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901103",
+			"properties": { "id": "PH1303901103", "name": "Barangay 103" },
+			"geometry": { "type": "Point", "coordinates": [120.96241351, 14.62182236] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901104",
+			"properties": { "id": "PH1303901104", "name": "Barangay 104" },
+			"geometry": { "type": "Point", "coordinates": [120.96271005, 14.62057755] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901105",
+			"properties": { "id": "PH1303901105", "name": "Barangay 105" },
+			"geometry": { "type": "Point", "coordinates": [120.95726391, 14.62374264] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901106",
+			"properties": { "id": "PH1303901106", "name": "Barangay 106" },
+			"geometry": { "type": "Point", "coordinates": [120.96153747, 14.62471728] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901107",
+			"properties": { "id": "PH1303901107", "name": "Barangay 107" },
+			"geometry": { "type": "Point", "coordinates": [120.95919278, 14.61889537] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901108",
+			"properties": { "id": "PH1303901108", "name": "Barangay 108" },
+			"geometry": { "type": "Point", "coordinates": [120.96265915, 14.61890073] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901109",
+			"properties": { "id": "PH1303901109", "name": "Barangay 109" },
+			"geometry": { "type": "Point", "coordinates": [120.9640787, 14.61839099] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901110",
+			"properties": { "id": "PH1303901110", "name": "Barangay 110" },
+			"geometry": { "type": "Point", "coordinates": [120.95910033, 14.61610753] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901111",
+			"properties": { "id": "PH1303901111", "name": "Barangay 111" },
+			"geometry": { "type": "Point", "coordinates": [120.96374946, 14.61751617] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901112",
+			"properties": { "id": "PH1303901112", "name": "Barangay 112" },
+			"geometry": { "type": "Point", "coordinates": [120.96236433, 14.6174348] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901116",
+			"properties": { "id": "PH1303901116", "name": "Barangay 116" },
+			"geometry": { "type": "Point", "coordinates": [120.96242423, 14.61572543] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901117",
+			"properties": { "id": "PH1303901117", "name": "Barangay 117" },
+			"geometry": { "type": "Point", "coordinates": [120.96401643, 14.61624696] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901118",
+			"properties": { "id": "PH1303901118", "name": "Barangay 118" },
+			"geometry": { "type": "Point", "coordinates": [120.96064974, 14.61290332] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901119",
+			"properties": { "id": "PH1303901119", "name": "Barangay 119" },
+			"geometry": { "type": "Point", "coordinates": [120.96245954, 14.61398242] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901120",
+			"properties": { "id": "PH1303901120", "name": "Barangay 120" },
+			"geometry": { "type": "Point", "coordinates": [120.96231247, 14.61306793] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901121",
+			"properties": { "id": "PH1303901121", "name": "Barangay 121" },
+			"geometry": { "type": "Point", "coordinates": [120.96416422, 14.6123283] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901122",
+			"properties": { "id": "PH1303901122", "name": "Barangay 122" },
+			"geometry": { "type": "Point", "coordinates": [120.96397017, 14.61501071] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901123",
+			"properties": { "id": "PH1303901123", "name": "Barangay 123" },
+			"geometry": { "type": "Point", "coordinates": [120.96023115, 14.61041479] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901124",
+			"properties": { "id": "PH1303901124", "name": "Barangay 124" },
+			"geometry": { "type": "Point", "coordinates": [120.96508413, 14.63243424] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901125",
+			"properties": { "id": "PH1303901125", "name": "Barangay 125" },
+			"geometry": { "type": "Point", "coordinates": [120.96615591, 14.63430078] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901126",
+			"properties": { "id": "PH1303901126", "name": "Barangay 126" },
+			"geometry": { "type": "Point", "coordinates": [120.9637267, 14.63331056] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901127",
+			"properties": { "id": "PH1303901127", "name": "Barangay 127" },
+			"geometry": { "type": "Point", "coordinates": [120.96473444, 14.63480404] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901128",
+			"properties": { "id": "PH1303901128", "name": "Barangay 128" },
+			"geometry": { "type": "Point", "coordinates": [120.95237046, 14.63251879] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901129",
+			"properties": { "id": "PH1303901129", "name": "Barangay 129" },
+			"geometry": { "type": "Point", "coordinates": [120.96387263, 14.630001] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901130",
+			"properties": { "id": "PH1303901130", "name": "Barangay 130" },
+			"geometry": { "type": "Point", "coordinates": [120.96359794, 14.6288561] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901131",
+			"properties": { "id": "PH1303901131", "name": "Barangay 131" },
+			"geometry": { "type": "Point", "coordinates": [120.96552664, 14.63143845] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901132",
+			"properties": { "id": "PH1303901132", "name": "Barangay 132" },
+			"geometry": { "type": "Point", "coordinates": [120.96707351000001, 14.62851996] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901133",
+			"properties": { "id": "PH1303901133", "name": "Barangay 133" },
+			"geometry": { "type": "Point", "coordinates": [120.96449938000001, 14.62748944] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901134",
+			"properties": { "id": "PH1303901134", "name": "Barangay 134" },
+			"geometry": { "type": "Point", "coordinates": [120.96568418, 14.62920115] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901135",
+			"properties": { "id": "PH1303901135", "name": "Barangay 135" },
+			"geometry": { "type": "Point", "coordinates": [120.96960044, 14.63396136] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901136",
+			"properties": { "id": "PH1303901136", "name": "Barangay 136" },
+			"geometry": { "type": "Point", "coordinates": [120.9687131, 14.63110236] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901137",
+			"properties": { "id": "PH1303901137", "name": "Barangay 137" },
+			"geometry": { "type": "Point", "coordinates": [120.96802406, 14.62932145] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901138",
+			"properties": { "id": "PH1303901138", "name": "Barangay 138" },
+			"geometry": { "type": "Point", "coordinates": [120.96638888, 14.6328429] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901139",
+			"properties": { "id": "PH1303901139", "name": "Barangay 139" },
+			"geometry": { "type": "Point", "coordinates": [120.96820213, 14.63084451] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901140",
+			"properties": { "id": "PH1303901140", "name": "Barangay 140" },
+			"geometry": { "type": "Point", "coordinates": [120.9671095, 14.6309551] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901141",
+			"properties": { "id": "PH1303901141", "name": "Barangay 141" },
+			"geometry": { "type": "Point", "coordinates": [120.96777308, 14.63178325] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901142",
+			"properties": { "id": "PH1303901142", "name": "Barangay 142" },
+			"geometry": { "type": "Point", "coordinates": [120.96703281000001, 14.63337803] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901143",
+			"properties": { "id": "PH1303901143", "name": "Barangay 143" },
+			"geometry": { "type": "Point", "coordinates": [120.9706018, 14.63147214] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901144",
+			"properties": { "id": "PH1303901144", "name": "Barangay 144" },
+			"geometry": { "type": "Point", "coordinates": [120.96968434, 14.63126526] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901145",
+			"properties": { "id": "PH1303901145", "name": "Barangay 145" },
+			"geometry": { "type": "Point", "coordinates": [120.96973094000001, 14.63269647] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901146",
+			"properties": { "id": "PH1303901146", "name": "Barangay 146" },
+			"geometry": { "type": "Point", "coordinates": [120.96803458, 14.6334906] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901147",
+			"properties": { "id": "PH1303901147", "name": "Barangay 147" },
+			"geometry": { "type": "Point", "coordinates": [120.96777175, 14.62372948] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901148",
+			"properties": { "id": "PH1303901148", "name": "Barangay 148" },
+			"geometry": { "type": "Point", "coordinates": [120.96840374, 14.62458956] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901149",
+			"properties": { "id": "PH1303901149", "name": "Barangay 149" },
+			"geometry": { "type": "Point", "coordinates": [120.97098849, 14.62086162] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901150",
+			"properties": { "id": "PH1303901150", "name": "Barangay 150" },
+			"geometry": { "type": "Point", "coordinates": [120.96880656, 14.62105821] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901151",
+			"properties": { "id": "PH1303901151", "name": "Barangay 151" },
+			"geometry": { "type": "Point", "coordinates": [120.97025613, 14.6192567] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901152",
+			"properties": { "id": "PH1303901152", "name": "Barangay 152" },
+			"geometry": { "type": "Point", "coordinates": [120.97423019, 14.62227905] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901153",
+			"properties": { "id": "PH1303901153", "name": "Barangay 153" },
+			"geometry": { "type": "Point", "coordinates": [120.9729607, 14.62245963] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901154",
+			"properties": { "id": "PH1303901154", "name": "Barangay 154" },
+			"geometry": { "type": "Point", "coordinates": [120.97209185, 14.619483] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901155",
+			"properties": { "id": "PH1303901155", "name": "Barangay 155" },
+			"geometry": { "type": "Point", "coordinates": [120.97405123, 14.62119046] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901156",
+			"properties": { "id": "PH1303901156", "name": "Barangay 156" },
+			"geometry": { "type": "Point", "coordinates": [120.97262084, 14.61813406] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901157",
+			"properties": { "id": "PH1303901157", "name": "Barangay 157" },
+			"geometry": { "type": "Point", "coordinates": [120.97346371, 14.61927542] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901158",
+			"properties": { "id": "PH1303901158", "name": "Barangay 158" },
+			"geometry": { "type": "Point", "coordinates": [120.97248472, 14.620809] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901159",
+			"properties": { "id": "PH1303901159", "name": "Barangay 159" },
+			"geometry": { "type": "Point", "coordinates": [120.97437256000001, 14.61951165] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901160",
+			"properties": { "id": "PH1303901160", "name": "Barangay 160" },
+			"geometry": { "type": "Point", "coordinates": [120.97387696, 14.62036366] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901161",
+			"properties": { "id": "PH1303901161", "name": "Barangay 161" },
+			"geometry": { "type": "Point", "coordinates": [120.97475439, 14.62813428] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901162",
+			"properties": { "id": "PH1303901162", "name": "Barangay 162" },
+			"geometry": { "type": "Point", "coordinates": [120.97454642, 14.62699766] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901163",
+			"properties": { "id": "PH1303901163", "name": "Barangay 163" },
+			"geometry": { "type": "Point", "coordinates": [120.97401515, 14.62415868] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901164",
+			"properties": { "id": "PH1303901164", "name": "Barangay 164" },
+			"geometry": { "type": "Point", "coordinates": [120.97421866000001, 14.62524935] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901165",
+			"properties": { "id": "PH1303901165", "name": "Barangay 165" },
+			"geometry": { "type": "Point", "coordinates": [120.97452962, 14.62589886] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901166",
+			"properties": { "id": "PH1303901166", "name": "Barangay 166" },
+			"geometry": { "type": "Point", "coordinates": [120.97220783, 14.62591584] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901167",
+			"properties": { "id": "PH1303901167", "name": "Barangay 167" },
+			"geometry": { "type": "Point", "coordinates": [120.97191789, 14.62460352] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901168",
+			"properties": { "id": "PH1303901168", "name": "Barangay 168" },
+			"geometry": { "type": "Point", "coordinates": [120.97022494, 14.62628875] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901169",
+			"properties": { "id": "PH1303901169", "name": "Barangay 169" },
+			"geometry": { "type": "Point", "coordinates": [120.969971, 14.62502503] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901170",
+			"properties": { "id": "PH1303901170", "name": "Barangay 170" },
+			"geometry": { "type": "Point", "coordinates": [120.96920143, 14.62695677] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901171",
+			"properties": { "id": "PH1303901171", "name": "Barangay 171" },
+			"geometry": { "type": "Point", "coordinates": [120.96842725, 14.62595413] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901172",
+			"properties": { "id": "PH1303901172", "name": "Barangay 172" },
+			"geometry": { "type": "Point", "coordinates": [120.96815914, 14.6277825] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901173",
+			"properties": { "id": "PH1303901173", "name": "Barangay 173" },
+			"geometry": { "type": "Point", "coordinates": [120.97278462, 14.62838791] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901174",
+			"properties": { "id": "PH1303901174", "name": "Barangay 174" },
+			"geometry": { "type": "Point", "coordinates": [120.97249454, 14.62715719] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901175",
+			"properties": { "id": "PH1303901175", "name": "Barangay 175" },
+			"geometry": { "type": "Point", "coordinates": [120.97060886, 14.62925671] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901176",
+			"properties": { "id": "PH1303901176", "name": "Barangay 176" },
+			"geometry": { "type": "Point", "coordinates": [120.96982781, 14.62825151] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901177",
+			"properties": { "id": "PH1303901177", "name": "Barangay 177" },
+			"geometry": { "type": "Point", "coordinates": [120.97276905, 14.63441188] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901178",
+			"properties": { "id": "PH1303901178", "name": "Barangay 178" },
+			"geometry": { "type": "Point", "coordinates": [120.97400567, 14.63336187] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901179",
+			"properties": { "id": "PH1303901179", "name": "Barangay 179" },
+			"geometry": { "type": "Point", "coordinates": [120.97337934, 14.62978391] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901180",
+			"properties": { "id": "PH1303901180", "name": "Barangay 180" },
+			"geometry": { "type": "Point", "coordinates": [120.97172134, 14.63005366] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901181",
+			"properties": { "id": "PH1303901181", "name": "Barangay 181" },
+			"geometry": { "type": "Point", "coordinates": [120.97337413, 14.63102298] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901182",
+			"properties": { "id": "PH1303901182", "name": "Barangay 182" },
+			"geometry": { "type": "Point", "coordinates": [120.97151877, 14.63234988] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901183",
+			"properties": { "id": "PH1303901183", "name": "Barangay 183" },
+			"geometry": { "type": "Point", "coordinates": [120.97351676, 14.63235044] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901184",
+			"properties": { "id": "PH1303901184", "name": "Barangay 184" },
+			"geometry": { "type": "Point", "coordinates": [120.97572689, 14.63410569] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901185",
+			"properties": { "id": "PH1303901185", "name": "Barangay 185" },
+			"geometry": { "type": "Point", "coordinates": [120.97498834, 14.62937792] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901186",
+			"properties": { "id": "PH1303901186", "name": "Barangay 186" },
+			"geometry": { "type": "Point", "coordinates": [120.97535803, 14.63145866] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901187",
+			"properties": { "id": "PH1303901187", "name": "Barangay 187" },
+			"geometry": { "type": "Point", "coordinates": [120.98164579, 14.63594641] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901188",
+			"properties": { "id": "PH1303901188", "name": "Barangay 188" },
+			"geometry": { "type": "Point", "coordinates": [120.98041988, 14.63568161] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901189",
+			"properties": { "id": "PH1303901189", "name": "Barangay 189" },
+			"geometry": { "type": "Point", "coordinates": [120.98083398, 14.63684128] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901190",
+			"properties": { "id": "PH1303901190", "name": "Barangay 190" },
+			"geometry": { "type": "Point", "coordinates": [120.98007754, 14.63737864] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901191",
+			"properties": { "id": "PH1303901191", "name": "Barangay 191" },
+			"geometry": { "type": "Point", "coordinates": [120.98148638000001, 14.63726712] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901192",
+			"properties": { "id": "PH1303901192", "name": "Barangay 192" },
+			"geometry": { "type": "Point", "coordinates": [120.97984075, 14.638666] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901193",
+			"properties": { "id": "PH1303901193", "name": "Barangay 193" },
+			"geometry": { "type": "Point", "coordinates": [120.97991214, 14.63488543] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901194",
+			"properties": { "id": "PH1303901194", "name": "Barangay 194" },
+			"geometry": { "type": "Point", "coordinates": [120.97872109, 14.63512333] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901195",
+			"properties": { "id": "PH1303901195", "name": "Barangay 195" },
+			"geometry": { "type": "Point", "coordinates": [120.97895751, 14.63426764] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901196",
+			"properties": { "id": "PH1303901196", "name": "Barangay 196" },
+			"geometry": { "type": "Point", "coordinates": [120.98098795, 14.63476255] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901197",
+			"properties": { "id": "PH1303901197", "name": "Barangay 197" },
+			"geometry": { "type": "Point", "coordinates": [120.98063798, 14.63399243] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901198",
+			"properties": { "id": "PH1303901198", "name": "Barangay 198" },
+			"geometry": { "type": "Point", "coordinates": [120.97681418000001, 14.63102657] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901199",
+			"properties": { "id": "PH1303901199", "name": "Barangay 199" },
+			"geometry": { "type": "Point", "coordinates": [120.97729243000001, 14.63419221] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901200",
+			"properties": { "id": "PH1303901200", "name": "Barangay 200" },
+			"geometry": { "type": "Point", "coordinates": [120.97686672, 14.6332078] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901201",
+			"properties": { "id": "PH1303901201", "name": "Barangay 201" },
+			"geometry": { "type": "Point", "coordinates": [120.97896281, 14.63157027] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901202",
+			"properties": { "id": "PH1303901202", "name": "Barangay 202" },
+			"geometry": { "type": "Point", "coordinates": [120.97894146, 14.63334597] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901922",
+			"properties": { "id": "PH1303901922", "name": "Barangay 202-A" },
+			"geometry": { "type": "Point", "coordinates": [120.98032731000001, 14.63285545] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901203",
+			"properties": { "id": "PH1303901203", "name": "Barangay 203" },
+			"geometry": { "type": "Point", "coordinates": [120.97807251, 14.628665] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901204",
+			"properties": { "id": "PH1303901204", "name": "Barangay 204" },
+			"geometry": { "type": "Point", "coordinates": [120.97662775000001, 14.62788694] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901205",
+			"properties": { "id": "PH1303901205", "name": "Barangay 205" },
+			"geometry": { "type": "Point", "coordinates": [120.97858117, 14.63007274] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901206",
+			"properties": { "id": "PH1303901206", "name": "Barangay 206" },
+			"geometry": { "type": "Point", "coordinates": [120.98040319, 14.63002128] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901207",
+			"properties": { "id": "PH1303901207", "name": "Barangay 207" },
+			"geometry": { "type": "Point", "coordinates": [120.9809673, 14.62806061] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901208",
+			"properties": { "id": "PH1303901208", "name": "Barangay 208" },
+			"geometry": { "type": "Point", "coordinates": [120.9821174, 14.62946112] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901209",
+			"properties": { "id": "PH1303901209", "name": "Barangay 209" },
+			"geometry": { "type": "Point", "coordinates": [120.98155115, 14.62492029] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901210",
+			"properties": { "id": "PH1303901210", "name": "Barangay 210" },
+			"geometry": { "type": "Point", "coordinates": [120.98261001, 14.62600693] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901211",
+			"properties": { "id": "PH1303901211", "name": "Barangay 211" },
+			"geometry": { "type": "Point", "coordinates": [120.98131305, 14.62658584] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901212",
+			"properties": { "id": "PH1303901212", "name": "Barangay 212" },
+			"geometry": { "type": "Point", "coordinates": [120.9793868, 14.62650456] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901213",
+			"properties": { "id": "PH1303901213", "name": "Barangay 213" },
+			"geometry": { "type": "Point", "coordinates": [120.97661443, 14.62481516] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901214",
+			"properties": { "id": "PH1303901214", "name": "Barangay 214" },
+			"geometry": { "type": "Point", "coordinates": [120.97609422, 14.62575425] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901215",
+			"properties": { "id": "PH1303901215", "name": "Barangay 215" },
+			"geometry": { "type": "Point", "coordinates": [120.97783016, 14.62633388] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901216",
+			"properties": { "id": "PH1303901216", "name": "Barangay 216" },
+			"geometry": { "type": "Point", "coordinates": [120.97785244000001, 14.62446816] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901217",
+			"properties": { "id": "PH1303901217", "name": "Barangay 217" },
+			"geometry": { "type": "Point", "coordinates": [120.97555293000001, 14.62501645] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901218",
+			"properties": { "id": "PH1303901218", "name": "Barangay 218" },
+			"geometry": { "type": "Point", "coordinates": [120.97537164000001, 14.62250468] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901219",
+			"properties": { "id": "PH1303901219", "name": "Barangay 219" },
+			"geometry": { "type": "Point", "coordinates": [120.97884621, 14.62444935] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901220",
+			"properties": { "id": "PH1303901220", "name": "Barangay 220" },
+			"geometry": { "type": "Point", "coordinates": [120.98088321, 14.62396538] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901221",
+			"properties": { "id": "PH1303901221", "name": "Barangay 221" },
+			"geometry": { "type": "Point", "coordinates": [120.97609151, 14.62077867] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901222",
+			"properties": { "id": "PH1303901222", "name": "Barangay 222" },
+			"geometry": { "type": "Point", "coordinates": [120.97619985, 14.6188423] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901223",
+			"properties": { "id": "PH1303901223", "name": "Barangay 223" },
+			"geometry": { "type": "Point", "coordinates": [120.97840237, 14.62025728] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901224",
+			"properties": { "id": "PH1303901224", "name": "Barangay 224" },
+			"geometry": { "type": "Point", "coordinates": [120.97874029, 14.62186837] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901225",
+			"properties": { "id": "PH1303901225", "name": "Barangay 225" },
+			"geometry": { "type": "Point", "coordinates": [120.97843349, 14.61804792] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901226",
+			"properties": { "id": "PH1303901226", "name": "Barangay 226" },
+			"geometry": { "type": "Point", "coordinates": [120.97787217, 14.61806431] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901227",
+			"properties": { "id": "PH1303901227", "name": "Barangay 227" },
+			"geometry": { "type": "Point", "coordinates": [120.97711775000001, 14.6220427] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901228",
+			"properties": { "id": "PH1303901228", "name": "Barangay 228" },
+			"geometry": { "type": "Point", "coordinates": [120.9757505, 14.62204597] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901229",
+			"properties": { "id": "PH1303901229", "name": "Barangay 229" },
+			"geometry": { "type": "Point", "coordinates": [120.97726089, 14.61822407] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901230",
+			"properties": { "id": "PH1303901230", "name": "Barangay 230" },
+			"geometry": { "type": "Point", "coordinates": [120.97682761, 14.61818748] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901231",
+			"properties": { "id": "PH1303901231", "name": "Barangay 231" },
+			"geometry": { "type": "Point", "coordinates": [120.9772994, 14.620264] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901232",
+			"properties": { "id": "PH1303901232", "name": "Barangay 232" },
+			"geometry": { "type": "Point", "coordinates": [120.97499266, 14.61838286] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901233",
+			"properties": { "id": "PH1303901233", "name": "Barangay 233" },
+			"geometry": { "type": "Point", "coordinates": [120.97600317, 14.61766557] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901234",
+			"properties": { "id": "PH1303901234", "name": "Barangay 234" },
+			"geometry": { "type": "Point", "coordinates": [120.97517751, 14.61632373] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901235",
+			"properties": { "id": "PH1303901235", "name": "Barangay 235" },
+			"geometry": { "type": "Point", "coordinates": [120.97658483, 14.61524209] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901236",
+			"properties": { "id": "PH1303901236", "name": "Barangay 236" },
+			"geometry": { "type": "Point", "coordinates": [120.97487147, 14.61536346] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901237",
+			"properties": { "id": "PH1303901237", "name": "Barangay 237" },
+			"geometry": { "type": "Point", "coordinates": [120.97468201, 14.61457271] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901238",
+			"properties": { "id": "PH1303901238", "name": "Barangay 238" },
+			"geometry": { "type": "Point", "coordinates": [120.97541649, 14.60922096] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901239",
+			"properties": { "id": "PH1303901239", "name": "Barangay 239" },
+			"geometry": { "type": "Point", "coordinates": [120.9757893, 14.61340855] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901240",
+			"properties": { "id": "PH1303901240", "name": "Barangay 240" },
+			"geometry": { "type": "Point", "coordinates": [120.97495881, 14.60718623] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901241",
+			"properties": { "id": "PH1303901241", "name": "Barangay 241" },
+			"geometry": { "type": "Point", "coordinates": [120.97380325, 14.61236721] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901242",
+			"properties": { "id": "PH1303901242", "name": "Barangay 242" },
+			"geometry": { "type": "Point", "coordinates": [120.97473668000001, 14.60873349] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901243",
+			"properties": { "id": "PH1303901243", "name": "Barangay 243" },
+			"geometry": { "type": "Point", "coordinates": [120.97479331, 14.61159801] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901244",
+			"properties": { "id": "PH1303901244", "name": "Barangay 244" },
+			"geometry": { "type": "Point", "coordinates": [120.97518889, 14.61113834] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901245",
+			"properties": { "id": "PH1303901245", "name": "Barangay 245" },
+			"geometry": { "type": "Point", "coordinates": [120.97411182, 14.6087726] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901246",
+			"properties": { "id": "PH1303901246", "name": "Barangay 246" },
+			"geometry": { "type": "Point", "coordinates": [120.97581207, 14.61148921] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901247",
+			"properties": { "id": "PH1303901247", "name": "Barangay 247" },
+			"geometry": { "type": "Point", "coordinates": [120.97390913, 14.60751118] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901248",
+			"properties": { "id": "PH1303901248", "name": "Barangay 248" },
+			"geometry": { "type": "Point", "coordinates": [120.97435465, 14.60985701] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901249",
+			"properties": { "id": "PH1303901249", "name": "Barangay 249" },
+			"geometry": { "type": "Point", "coordinates": [120.97761301, 14.61599714] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901250",
+			"properties": { "id": "PH1303901250", "name": "Barangay 250" },
+			"geometry": { "type": "Point", "coordinates": [120.9767949, 14.6099808] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901251",
+			"properties": { "id": "PH1303901251", "name": "Barangay 251" },
+			"geometry": { "type": "Point", "coordinates": [120.97760901, 14.6145678] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901252",
+			"properties": { "id": "PH1303901252", "name": "Barangay 252" },
+			"geometry": { "type": "Point", "coordinates": [120.97700424, 14.61437281] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901253",
+			"properties": { "id": "PH1303901253", "name": "Barangay 253" },
+			"geometry": { "type": "Point", "coordinates": [120.97807557, 14.61451311] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901254",
+			"properties": { "id": "PH1303901254", "name": "Barangay 254" },
+			"geometry": { "type": "Point", "coordinates": [120.97713346, 14.61192222] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901255",
+			"properties": { "id": "PH1303901255", "name": "Barangay 255" },
+			"geometry": { "type": "Point", "coordinates": [120.97874603, 14.61428907] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901256",
+			"properties": { "id": "PH1303901256", "name": "Barangay 256" },
+			"geometry": { "type": "Point", "coordinates": [120.97857069, 14.61585958] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901257",
+			"properties": { "id": "PH1303901257", "name": "Barangay 257" },
+			"geometry": { "type": "Point", "coordinates": [120.97852367, 14.61127684] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901258",
+			"properties": { "id": "PH1303901258", "name": "Barangay 258" },
+			"geometry": { "type": "Point", "coordinates": [120.97845859, 14.61231464] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901259",
+			"properties": { "id": "PH1303901259", "name": "Barangay 259" },
+			"geometry": { "type": "Point", "coordinates": [120.97622988000001, 14.60743784] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901260",
+			"properties": { "id": "PH1303901260", "name": "Barangay 260" },
+			"geometry": { "type": "Point", "coordinates": [120.97819078000001, 14.60645568] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901261",
+			"properties": { "id": "PH1303901261", "name": "Barangay 261" },
+			"geometry": { "type": "Point", "coordinates": [120.98006196, 14.60988228] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901262",
+			"properties": { "id": "PH1303901262", "name": "Barangay 262" },
+			"geometry": { "type": "Point", "coordinates": [120.9785645, 14.60911276] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901263",
+			"properties": { "id": "PH1303901263", "name": "Barangay 263" },
+			"geometry": { "type": "Point", "coordinates": [120.97896829, 14.60800752] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901264",
+			"properties": { "id": "PH1303901264", "name": "Barangay 264" },
+			"geometry": { "type": "Point", "coordinates": [120.97903263000001, 14.61022171] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901265",
+			"properties": { "id": "PH1303901265", "name": "Barangay 265" },
+			"geometry": { "type": "Point", "coordinates": [120.97978803, 14.61127684] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901266",
+			"properties": { "id": "PH1303901266", "name": "Barangay 266" },
+			"geometry": { "type": "Point", "coordinates": [120.97725538, 14.60658454] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901267",
+			"properties": { "id": "PH1303901267", "name": "Barangay 267" },
+			"geometry": { "type": "Point", "coordinates": [120.97959282, 14.6123994] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901906",
+			"properties": { "id": "PH1303901906", "name": "Manila North Cemetery" },
+			"geometry": { "type": "Point", "coordinates": [120.98407068, 14.63310842] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901907",
+			"properties": {
+				"id": "PH1303901907",
+				"name": "Tutuban Mall (Claimed by Five Barangays of Tondo, Manila)"
+			},
+			"geometry": { "type": "Point", "coordinates": [120.97274115, 14.6083549] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901287",
+			"properties": { "id": "PH1303901287", "name": "Barangay 287" },
+			"geometry": { "type": "Point", "coordinates": [120.97408378, 14.59922886] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901288",
+			"properties": { "id": "PH1303901288", "name": "Barangay 288" },
+			"geometry": { "type": "Point", "coordinates": [120.97469173, 14.60070407] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901289",
+			"properties": { "id": "PH1303901289", "name": "Barangay 289" },
+			"geometry": { "type": "Point", "coordinates": [120.97550018, 14.59911888] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901290",
+			"properties": { "id": "PH1303901290", "name": "Barangay 290" },
+			"geometry": { "type": "Point", "coordinates": [120.97760084, 14.59926634] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901291",
+			"properties": { "id": "PH1303901291", "name": "Barangay 291" },
+			"geometry": { "type": "Point", "coordinates": [120.9781752, 14.5976584] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901292",
+			"properties": { "id": "PH1303901292", "name": "Barangay 292" },
+			"geometry": { "type": "Point", "coordinates": [120.97513551, 14.60391732] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901293",
+			"properties": { "id": "PH1303901293", "name": "Barangay 293" },
+			"geometry": { "type": "Point", "coordinates": [120.97313651, 14.60401661] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901294",
+			"properties": { "id": "PH1303901294", "name": "Barangay 294" },
+			"geometry": { "type": "Point", "coordinates": [120.97650009, 14.60462045] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901295",
+			"properties": { "id": "PH1303901295", "name": "Barangay 295" },
+			"geometry": { "type": "Point", "coordinates": [120.97703664, 14.60285701] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901296",
+			"properties": { "id": "PH1303901296", "name": "Barangay 296" },
+			"geometry": { "type": "Point", "coordinates": [120.97568609, 14.60233004] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901383",
+			"properties": { "id": "PH1303901383", "name": "Barangay 383" },
+			"geometry": { "type": "Point", "coordinates": [120.98467759, 14.59720481] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901384",
+			"properties": { "id": "PH1303901384", "name": "Barangay 384" },
+			"geometry": { "type": "Point", "coordinates": [120.98419983, 14.59587192] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901385",
+			"properties": { "id": "PH1303901385", "name": "Barangay 385" },
+			"geometry": { "type": "Point", "coordinates": [120.98746535, 14.59577985] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901386",
+			"properties": { "id": "PH1303901386", "name": "Barangay 386" },
+			"geometry": { "type": "Point", "coordinates": [120.98972439000001, 14.59487594] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901387",
+			"properties": { "id": "PH1303901387", "name": "Barangay 387" },
+			"geometry": { "type": "Point", "coordinates": [120.98755011, 14.59715946] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901388",
+			"properties": { "id": "PH1303901388", "name": "Barangay 388" },
+			"geometry": { "type": "Point", "coordinates": [120.98810627, 14.59781575] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901389",
+			"properties": { "id": "PH1303901389", "name": "Barangay 389" },
+			"geometry": { "type": "Point", "coordinates": [120.99041634, 14.59832907] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901390",
+			"properties": { "id": "PH1303901390", "name": "Barangay 390" },
+			"geometry": { "type": "Point", "coordinates": [120.98964117, 14.59941377] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901391",
+			"properties": { "id": "PH1303901391", "name": "Barangay 391" },
+			"geometry": { "type": "Point", "coordinates": [120.98549866, 14.60121828] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901392",
+			"properties": { "id": "PH1303901392", "name": "Barangay 392" },
+			"geometry": { "type": "Point", "coordinates": [120.98714034, 14.60133698] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901393",
+			"properties": { "id": "PH1303901393", "name": "Barangay 393" },
+			"geometry": { "type": "Point", "coordinates": [120.98677309, 14.59860454] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901394",
+			"properties": { "id": "PH1303901394", "name": "Barangay 394" },
+			"geometry": { "type": "Point", "coordinates": [120.98496375000001, 14.59969198] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901306",
+			"properties": { "id": "PH1303901306", "name": "Barangay 306" },
+			"geometry": { "type": "Point", "coordinates": [120.9821559, 14.59712126] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901307",
+			"properties": { "id": "PH1303901307", "name": "Barangay 307" },
+			"geometry": { "type": "Point", "coordinates": [120.98280912, 14.59924372] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901308",
+			"properties": { "id": "PH1303901308", "name": "Barangay 308" },
+			"geometry": { "type": "Point", "coordinates": [120.98421583, 14.60205496] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901309",
+			"properties": { "id": "PH1303901309", "name": "Barangay 309" },
+			"geometry": { "type": "Point", "coordinates": [120.9827211, 14.60212824] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901268",
+			"properties": { "id": "PH1303901268", "name": "Barangay 268" },
+			"geometry": { "type": "Point", "coordinates": [120.97137014, 14.60406546] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901269",
+			"properties": { "id": "PH1303901269", "name": "Barangay 269" },
+			"geometry": { "type": "Point", "coordinates": [120.96981637, 14.60377571] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901270",
+			"properties": { "id": "PH1303901270", "name": "Barangay 270" },
+			"geometry": { "type": "Point", "coordinates": [120.96835949, 14.60150747] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901271",
+			"properties": { "id": "PH1303901271", "name": "Barangay 271" },
+			"geometry": { "type": "Point", "coordinates": [120.97032878, 14.60193349] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901272",
+			"properties": { "id": "PH1303901272", "name": "Barangay 272" },
+			"geometry": { "type": "Point", "coordinates": [120.96757889, 14.59978603] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901273",
+			"properties": { "id": "PH1303901273", "name": "Barangay 273" },
+			"geometry": { "type": "Point", "coordinates": [120.96773465, 14.59918514] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901274",
+			"properties": { "id": "PH1303901274", "name": "Barangay 274" },
+			"geometry": { "type": "Point", "coordinates": [120.96666092, 14.60068843] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901275",
+			"properties": { "id": "PH1303901275", "name": "Barangay 275" },
+			"geometry": { "type": "Point", "coordinates": [120.96480922000001, 14.5985005] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901276",
+			"properties": { "id": "PH1303901276", "name": "Barangay 276" },
+			"geometry": { "type": "Point", "coordinates": [120.96748815, 14.60109327] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901281",
+			"properties": { "id": "PH1303901281", "name": "Barangay 281" },
+			"geometry": { "type": "Point", "coordinates": [120.97143135, 14.60002929] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901282",
+			"properties": { "id": "PH1303901282", "name": "Barangay 282" },
+			"geometry": { "type": "Point", "coordinates": [120.9730787, 14.5974434] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901283",
+			"properties": { "id": "PH1303901283", "name": "Barangay 283" },
+			"geometry": { "type": "Point", "coordinates": [120.9686128, 14.5974095] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901284",
+			"properties": { "id": "PH1303901284", "name": "Barangay 284" },
+			"geometry": { "type": "Point", "coordinates": [120.96991509, 14.59776298] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901285",
+			"properties": { "id": "PH1303901285", "name": "Barangay 285" },
+			"geometry": { "type": "Point", "coordinates": [120.97103336000001, 14.59798966] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901286",
+			"properties": { "id": "PH1303901286", "name": "Barangay 286" },
+			"geometry": { "type": "Point", "coordinates": [120.9672251, 14.59722703] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901297",
+			"properties": { "id": "PH1303901297", "name": "Barangay 297" },
+			"geometry": { "type": "Point", "coordinates": [120.97754978, 14.60117373] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901298",
+			"properties": { "id": "PH1303901298", "name": "Barangay 298" },
+			"geometry": { "type": "Point", "coordinates": [120.97904046, 14.6003138] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901299",
+			"properties": { "id": "PH1303901299", "name": "Barangay 299" },
+			"geometry": { "type": "Point", "coordinates": [120.9784901, 14.60358008] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901300",
+			"properties": { "id": "PH1303901300", "name": "Barangay 300" },
+			"geometry": { "type": "Point", "coordinates": [120.977949, 14.60197349] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901301",
+			"properties": { "id": "PH1303901301", "name": "Barangay 301" },
+			"geometry": { "type": "Point", "coordinates": [120.97979314, 14.60207707] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901302",
+			"properties": { "id": "PH1303901302", "name": "Barangay 302" },
+			"geometry": { "type": "Point", "coordinates": [120.97899198, 14.60187654] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901303",
+			"properties": { "id": "PH1303901303", "name": "Barangay 303" },
+			"geometry": { "type": "Point", "coordinates": [120.98042045, 14.5991802] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901304",
+			"properties": { "id": "PH1303901304", "name": "Barangay 304" },
+			"geometry": { "type": "Point", "coordinates": [120.98138977000001, 14.60310097] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901305",
+			"properties": { "id": "PH1303901305", "name": "Barangay 305" },
+			"geometry": { "type": "Point", "coordinates": [120.98043691, 14.60243958] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901310",
+			"properties": { "id": "PH1303901310", "name": "Barangay 310" },
+			"geometry": { "type": "Point", "coordinates": [120.98367935, 14.60470404] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901311",
+			"properties": { "id": "PH1303901311", "name": "Barangay 311" },
+			"geometry": { "type": "Point", "coordinates": [120.98465953, 14.6068704] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901312",
+			"properties": { "id": "PH1303901312", "name": "Barangay 312" },
+			"geometry": { "type": "Point", "coordinates": [120.98278017, 14.60628574] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901313",
+			"properties": { "id": "PH1303901313", "name": "Barangay 313" },
+			"geometry": { "type": "Point", "coordinates": [120.98036057, 14.60455518] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901314",
+			"properties": { "id": "PH1303901314", "name": "Barangay 314" },
+			"geometry": { "type": "Point", "coordinates": [120.98043534, 14.60618487] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901315",
+			"properties": { "id": "PH1303901315", "name": "Barangay 315" },
+			"geometry": { "type": "Point", "coordinates": [120.98457522, 14.60836793] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901316",
+			"properties": { "id": "PH1303901316", "name": "Barangay 316" },
+			"geometry": { "type": "Point", "coordinates": [120.98271968, 14.60867817] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901317",
+			"properties": { "id": "PH1303901317", "name": "Barangay 317" },
+			"geometry": { "type": "Point", "coordinates": [120.98528976, 14.61130107] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901318",
+			"properties": { "id": "PH1303901318", "name": "Barangay 318" },
+			"geometry": { "type": "Point", "coordinates": [120.98465169000001, 14.61016081] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901319",
+			"properties": { "id": "PH1303901319", "name": "Barangay 319" },
+			"geometry": { "type": "Point", "coordinates": [120.98562218, 14.61015007] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901320",
+			"properties": { "id": "PH1303901320", "name": "Barangay 320" },
+			"geometry": { "type": "Point", "coordinates": [120.98342338, 14.61144] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901321",
+			"properties": { "id": "PH1303901321", "name": "Barangay 321" },
+			"geometry": { "type": "Point", "coordinates": [120.98284079, 14.61027755] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901322",
+			"properties": { "id": "PH1303901322", "name": "Barangay 322" },
+			"geometry": { "type": "Point", "coordinates": [120.9837501, 14.6102169] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901323",
+			"properties": { "id": "PH1303901323", "name": "Barangay 323" },
+			"geometry": { "type": "Point", "coordinates": [120.98538266, 14.61246111] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901324",
+			"properties": { "id": "PH1303901324", "name": "Barangay 324" },
+			"geometry": { "type": "Point", "coordinates": [120.98391869, 14.61249463] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901325",
+			"properties": { "id": "PH1303901325", "name": "Barangay 325" },
+			"geometry": { "type": "Point", "coordinates": [120.98300858, 14.61259769] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901326",
+			"properties": { "id": "PH1303901326", "name": "Barangay 326" },
+			"geometry": { "type": "Point", "coordinates": [120.98093614, 14.61041982] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901327",
+			"properties": { "id": "PH1303901327", "name": "Barangay 327" },
+			"geometry": { "type": "Point", "coordinates": [120.98085498, 14.61211068] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901328",
+			"properties": { "id": "PH1303901328", "name": "Barangay 328" },
+			"geometry": { "type": "Point", "coordinates": [120.98077061, 14.60932739] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901329",
+			"properties": { "id": "PH1303901329", "name": "Barangay 329" },
+			"geometry": { "type": "Point", "coordinates": [120.98079157, 14.60722205] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901330",
+			"properties": { "id": "PH1303901330", "name": "Barangay 330" },
+			"geometry": { "type": "Point", "coordinates": [120.97997092, 14.60773543] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901331",
+			"properties": { "id": "PH1303901331", "name": "Barangay 331" },
+			"geometry": { "type": "Point", "coordinates": [120.98105816, 14.61489361] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901332",
+			"properties": { "id": "PH1303901332", "name": "Barangay 332" },
+			"geometry": { "type": "Point", "coordinates": [120.98179793, 14.60921762] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901333",
+			"properties": { "id": "PH1303901333", "name": "Barangay 333" },
+			"geometry": { "type": "Point", "coordinates": [120.98188719, 14.61035729] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901334",
+			"properties": { "id": "PH1303901334", "name": "Barangay 334" },
+			"geometry": { "type": "Point", "coordinates": [120.981986, 14.6115525] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901335",
+			"properties": { "id": "PH1303901335", "name": "Barangay 335" },
+			"geometry": { "type": "Point", "coordinates": [120.98164325, 14.60714512] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901336",
+			"properties": { "id": "PH1303901336", "name": "Barangay 336" },
+			"geometry": { "type": "Point", "coordinates": [120.98371781, 14.61612686] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901337",
+			"properties": { "id": "PH1303901337", "name": "Barangay 337" },
+			"geometry": { "type": "Point", "coordinates": [120.98366044, 14.61488362] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901338",
+			"properties": { "id": "PH1303901338", "name": "Barangay 338" },
+			"geometry": { "type": "Point", "coordinates": [120.98556667, 14.61457404] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901339",
+			"properties": { "id": "PH1303901339", "name": "Barangay 339" },
+			"geometry": { "type": "Point", "coordinates": [120.98358617, 14.61363963] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901340",
+			"properties": { "id": "PH1303901340", "name": "Barangay 340" },
+			"geometry": { "type": "Point", "coordinates": [120.98549092, 14.61372141] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901341",
+			"properties": { "id": "PH1303901341", "name": "Barangay 341" },
+			"geometry": { "type": "Point", "coordinates": [120.98551611000001, 14.61641988] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901342",
+			"properties": { "id": "PH1303901342", "name": "Barangay 342" },
+			"geometry": { "type": "Point", "coordinates": [120.98749252, 14.61378248] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901343",
+			"properties": { "id": "PH1303901343", "name": "Barangay 343" },
+			"geometry": { "type": "Point", "coordinates": [120.98809314, 14.61529742] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901344",
+			"properties": { "id": "PH1303901344", "name": "Barangay 344" },
+			"geometry": { "type": "Point", "coordinates": [120.9841495, 14.61733419] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901345",
+			"properties": { "id": "PH1303901345", "name": "Barangay 345" },
+			"geometry": { "type": "Point", "coordinates": [120.9838323, 14.61991796] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901346",
+			"properties": { "id": "PH1303901346", "name": "Barangay 346" },
+			"geometry": { "type": "Point", "coordinates": [120.98380501, 14.61877506] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901347",
+			"properties": { "id": "PH1303901347", "name": "Barangay 347" },
+			"geometry": { "type": "Point", "coordinates": [120.98386512, 14.62116157] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901348",
+			"properties": { "id": "PH1303901348", "name": "Barangay 348" },
+			"geometry": { "type": "Point", "coordinates": [120.98389706, 14.62205752] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901349",
+			"properties": { "id": "PH1303901349", "name": "Barangay 349" },
+			"geometry": { "type": "Point", "coordinates": [120.9859499, 14.62218156] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901350",
+			"properties": { "id": "PH1303901350", "name": "Barangay 350" },
+			"geometry": { "type": "Point", "coordinates": [120.98620088, 14.61988272] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901351",
+			"properties": { "id": "PH1303901351", "name": "Barangay 351" },
+			"geometry": { "type": "Point", "coordinates": [120.98827271, 14.62005875] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901352",
+			"properties": { "id": "PH1303901352", "name": "Barangay 352" },
+			"geometry": { "type": "Point", "coordinates": [120.98831615, 14.61714681] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901353",
+			"properties": { "id": "PH1303901353", "name": "Barangay 353" },
+			"geometry": { "type": "Point", "coordinates": [120.98138414, 14.61737287] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901354",
+			"properties": { "id": "PH1303901354", "name": "Barangay 354" },
+			"geometry": { "type": "Point", "coordinates": [120.98141799, 14.61869584] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901355",
+			"properties": { "id": "PH1303901355", "name": "Barangay 355" },
+			"geometry": { "type": "Point", "coordinates": [120.97932585, 14.61804792] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901356",
+			"properties": { "id": "PH1303901356", "name": "Barangay 356" },
+			"geometry": { "type": "Point", "coordinates": [120.98197561000001, 14.62217877] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901357",
+			"properties": { "id": "PH1303901357", "name": "Barangay 357" },
+			"geometry": { "type": "Point", "coordinates": [120.98217888000001, 14.62133474] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901358",
+			"properties": { "id": "PH1303901358", "name": "Barangay 358" },
+			"geometry": { "type": "Point", "coordinates": [120.98214684, 14.61995864] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901359",
+			"properties": { "id": "PH1303901359", "name": "Barangay 359" },
+			"geometry": { "type": "Point", "coordinates": [120.98030082, 14.62247441] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901360",
+			"properties": { "id": "PH1303901360", "name": "Barangay 360" },
+			"geometry": { "type": "Point", "coordinates": [120.98041996000001, 14.62122492] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901361",
+			"properties": { "id": "PH1303901361", "name": "Barangay 361" },
+			"geometry": { "type": "Point", "coordinates": [120.98076207, 14.61993303] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901362",
+			"properties": { "id": "PH1303901362", "name": "Barangay 362" },
+			"geometry": { "type": "Point", "coordinates": [120.97952037, 14.62010086] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901363",
+			"properties": { "id": "PH1303901363", "name": "Barangay 363" },
+			"geometry": { "type": "Point", "coordinates": [120.98381878, 14.62363501] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901364",
+			"properties": { "id": "PH1303901364", "name": "Barangay 364" },
+			"geometry": { "type": "Point", "coordinates": [120.98595083, 14.62332532] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901365",
+			"properties": { "id": "PH1303901365", "name": "Barangay 365" },
+			"geometry": { "type": "Point", "coordinates": [120.98457616, 14.62324393] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901366",
+			"properties": { "id": "PH1303901366", "name": "Barangay 366" },
+			"geometry": { "type": "Point", "coordinates": [120.98373422, 14.62480013] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901367",
+			"properties": { "id": "PH1303901367", "name": "Barangay 367" },
+			"geometry": { "type": "Point", "coordinates": [120.98554527, 14.62470629] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901368",
+			"properties": { "id": "PH1303901368", "name": "Barangay 368" },
+			"geometry": { "type": "Point", "coordinates": [120.98851848, 14.62153414] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901369",
+			"properties": { "id": "PH1303901369", "name": "Barangay 369" },
+			"geometry": { "type": "Point", "coordinates": [120.98707892, 14.62304741] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901370",
+			"properties": { "id": "PH1303901370", "name": "Barangay 370" },
+			"geometry": { "type": "Point", "coordinates": [120.9872696, 14.62469204] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901371",
+			"properties": { "id": "PH1303901371", "name": "Barangay 371" },
+			"geometry": { "type": "Point", "coordinates": [120.98835334, 14.62341459] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901372",
+			"properties": { "id": "PH1303901372", "name": "Barangay 372" },
+			"geometry": { "type": "Point", "coordinates": [120.98909444, 14.63072777] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901373",
+			"properties": { "id": "PH1303901373", "name": "Barangay 373" },
+			"geometry": { "type": "Point", "coordinates": [120.98347053000001, 14.63021198] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901374",
+			"properties": { "id": "PH1303901374", "name": "Barangay 374" },
+			"geometry": { "type": "Point", "coordinates": [120.98219732, 14.63046361] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901375",
+			"properties": { "id": "PH1303901375", "name": "Barangay 375" },
+			"geometry": { "type": "Point", "coordinates": [120.98327894000001, 14.62916918] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901376",
+			"properties": { "id": "PH1303901376", "name": "Barangay 376" },
+			"geometry": { "type": "Point", "coordinates": [120.98768594000001, 14.62651975] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901377",
+			"properties": { "id": "PH1303901377", "name": "Barangay 377" },
+			"geometry": { "type": "Point", "coordinates": [120.98543802, 14.62770966] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901378",
+			"properties": { "id": "PH1303901378", "name": "Barangay 378" },
+			"geometry": { "type": "Point", "coordinates": [120.98445004, 14.62868549] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901379",
+			"properties": { "id": "PH1303901379", "name": "Barangay 379" },
+			"geometry": { "type": "Point", "coordinates": [120.98616937, 14.6259311] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901380",
+			"properties": { "id": "PH1303901380", "name": "Barangay 380" },
+			"geometry": { "type": "Point", "coordinates": [120.98541869, 14.62633363] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901381",
+			"properties": { "id": "PH1303901381", "name": "Barangay 381" },
+			"geometry": { "type": "Point", "coordinates": [120.98400747, 14.62612177] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901382",
+			"properties": { "id": "PH1303901382", "name": "Barangay 382" },
+			"geometry": { "type": "Point", "coordinates": [120.98370761, 14.62779296] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901395",
+			"properties": { "id": "PH1303901395", "name": "Barangay 395" },
+			"geometry": { "type": "Point", "coordinates": [120.98675997, 14.60349489] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901396",
+			"properties": { "id": "PH1303901396", "name": "Barangay 396" },
+			"geometry": { "type": "Point", "coordinates": [120.98869539, 14.60460577] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901397",
+			"properties": { "id": "PH1303901397", "name": "Barangay 397" },
+			"geometry": { "type": "Point", "coordinates": [120.99023915, 14.60626553] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901398",
+			"properties": { "id": "PH1303901398", "name": "Barangay 398" },
+			"geometry": { "type": "Point", "coordinates": [120.99152169, 14.60573539] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901399",
+			"properties": { "id": "PH1303901399", "name": "Barangay 399" },
+			"geometry": { "type": "Point", "coordinates": [120.99054842, 14.60491008] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901400",
+			"properties": { "id": "PH1303901400", "name": "Barangay 400" },
+			"geometry": { "type": "Point", "coordinates": [120.99072591, 14.603385] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901401",
+			"properties": { "id": "PH1303901401", "name": "Barangay 401" },
+			"geometry": { "type": "Point", "coordinates": [120.99219841, 14.60415619] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901402",
+			"properties": { "id": "PH1303901402", "name": "Barangay 402" },
+			"geometry": { "type": "Point", "coordinates": [120.99222644, 14.60220898] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901403",
+			"properties": { "id": "PH1303901403", "name": "Barangay 403" },
+			"geometry": { "type": "Point", "coordinates": [120.99118667, 14.60178805] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901404",
+			"properties": { "id": "PH1303901404", "name": "Barangay 404" },
+			"geometry": { "type": "Point", "coordinates": [120.98949902, 14.60220422] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901405",
+			"properties": { "id": "PH1303901405", "name": "Barangay 405" },
+			"geometry": { "type": "Point", "coordinates": [120.99375224000001, 14.60495777] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901406",
+			"properties": { "id": "PH1303901406", "name": "Barangay 406" },
+			"geometry": { "type": "Point", "coordinates": [120.99406414000001, 14.60571327] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901407",
+			"properties": { "id": "PH1303901407", "name": "Barangay 407" },
+			"geometry": { "type": "Point", "coordinates": [120.99470857, 14.6038077] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901408",
+			"properties": { "id": "PH1303901408", "name": "Barangay 408" },
+			"geometry": { "type": "Point", "coordinates": [120.99525206, 14.60433386] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901409",
+			"properties": { "id": "PH1303901409", "name": "Barangay 409" },
+			"geometry": { "type": "Point", "coordinates": [120.99721466, 14.60203249] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901410",
+			"properties": { "id": "PH1303901410", "name": "Barangay 410" },
+			"geometry": { "type": "Point", "coordinates": [120.9972454, 14.6006555] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901411",
+			"properties": { "id": "PH1303901411", "name": "Barangay 411" },
+			"geometry": { "type": "Point", "coordinates": [120.99693389, 14.6027143] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901412",
+			"properties": { "id": "PH1303901412", "name": "Barangay 412" },
+			"geometry": { "type": "Point", "coordinates": [120.99462759, 14.60080401] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901413",
+			"properties": { "id": "PH1303901413", "name": "Barangay 413" },
+			"geometry": { "type": "Point", "coordinates": [120.99499084, 14.60161718] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901414",
+			"properties": { "id": "PH1303901414", "name": "Barangay 414" },
+			"geometry": { "type": "Point", "coordinates": [120.99521565000001, 14.60235228] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901415",
+			"properties": { "id": "PH1303901415", "name": "Barangay 415" },
+			"geometry": { "type": "Point", "coordinates": [120.99384557, 14.60289796] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901416",
+			"properties": { "id": "PH1303901416", "name": "Barangay 416" },
+			"geometry": { "type": "Point", "coordinates": [120.9929861, 14.60136258] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901417",
+			"properties": { "id": "PH1303901417", "name": "Barangay 417" },
+			"geometry": { "type": "Point", "coordinates": [120.99991578, 14.60411226] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901418",
+			"properties": { "id": "PH1303901418", "name": "Barangay 418" },
+			"geometry": { "type": "Point", "coordinates": [121.00052095, 14.60248129] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901419",
+			"properties": { "id": "PH1303901419", "name": "Barangay 419" },
+			"geometry": { "type": "Point", "coordinates": [120.99881752, 14.60340482] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901420",
+			"properties": { "id": "PH1303901420", "name": "Barangay 420" },
+			"geometry": { "type": "Point", "coordinates": [120.99929837000001, 14.60152198] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901421",
+			"properties": { "id": "PH1303901421", "name": "Barangay 421" },
+			"geometry": { "type": "Point", "coordinates": [121.00317357, 14.60417851] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901422",
+			"properties": { "id": "PH1303901422", "name": "Barangay 422" },
+			"geometry": { "type": "Point", "coordinates": [121.0025202, 14.6052809] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901423",
+			"properties": { "id": "PH1303901423", "name": "Barangay 423" },
+			"geometry": { "type": "Point", "coordinates": [121.00133351, 14.6044957] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901424",
+			"properties": { "id": "PH1303901424", "name": "Barangay 424" },
+			"geometry": { "type": "Point", "coordinates": [121.00160159000001, 14.60280323] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901425",
+			"properties": { "id": "PH1303901425", "name": "Barangay 425" },
+			"geometry": { "type": "Point", "coordinates": [121.00327936, 14.60255559] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901426",
+			"properties": { "id": "PH1303901426", "name": "Barangay 426" },
+			"geometry": { "type": "Point", "coordinates": [121.00691737, 14.60222611] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901427",
+			"properties": { "id": "PH1303901427", "name": "Barangay 427" },
+			"geometry": { "type": "Point", "coordinates": [121.00454974, 14.60318514] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901428",
+			"properties": { "id": "PH1303901428", "name": "Barangay 428" },
+			"geometry": { "type": "Point", "coordinates": [121.00463476, 14.60394071] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901429",
+			"properties": { "id": "PH1303901429", "name": "Barangay 429" },
+			"geometry": { "type": "Point", "coordinates": [120.99593682, 14.6070702] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901430",
+			"properties": { "id": "PH1303901430", "name": "Barangay 430" },
+			"geometry": { "type": "Point", "coordinates": [120.99453778, 14.60614342] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901431",
+			"properties": { "id": "PH1303901431", "name": "Barangay 431" },
+			"geometry": { "type": "Point", "coordinates": [120.99511516, 14.60667097] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901432",
+			"properties": { "id": "PH1303901432", "name": "Barangay 432" },
+			"geometry": { "type": "Point", "coordinates": [120.99749864, 14.6062941] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901433",
+			"properties": { "id": "PH1303901433", "name": "Barangay 433" },
+			"geometry": { "type": "Point", "coordinates": [120.99613832, 14.60420558] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901434",
+			"properties": { "id": "PH1303901434", "name": "Barangay 434" },
+			"geometry": { "type": "Point", "coordinates": [120.99595951000001, 14.60558758] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901435",
+			"properties": { "id": "PH1303901435", "name": "Barangay 435" },
+			"geometry": { "type": "Point", "coordinates": [120.99677187, 14.60461019] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901436",
+			"properties": { "id": "PH1303901436", "name": "Barangay 436" },
+			"geometry": { "type": "Point", "coordinates": [120.99921754, 14.60486223] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901437",
+			"properties": { "id": "PH1303901437", "name": "Barangay 437" },
+			"geometry": { "type": "Point", "coordinates": [121.0006949, 14.60604191] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901438",
+			"properties": { "id": "PH1303901438", "name": "Barangay 438" },
+			"geometry": { "type": "Point", "coordinates": [120.99944332, 14.60663141] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901439",
+			"properties": { "id": "PH1303901439", "name": "Barangay 439" },
+			"geometry": { "type": "Point", "coordinates": [120.99881112, 14.60621419] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901440",
+			"properties": { "id": "PH1303901440", "name": "Barangay 440" },
+			"geometry": { "type": "Point", "coordinates": [120.99897527, 14.60816926] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901441",
+			"properties": { "id": "PH1303901441", "name": "Barangay 441" },
+			"geometry": { "type": "Point", "coordinates": [120.99796377, 14.60922701] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901442",
+			"properties": { "id": "PH1303901442", "name": "Barangay 442" },
+			"geometry": { "type": "Point", "coordinates": [120.99857311, 14.6097864] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901443",
+			"properties": { "id": "PH1303901443", "name": "Barangay 443" },
+			"geometry": { "type": "Point", "coordinates": [120.99958608, 14.60872753] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901444",
+			"properties": { "id": "PH1303901444", "name": "Barangay 444" },
+			"geometry": { "type": "Point", "coordinates": [121.00059125, 14.60767706] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901445",
+			"properties": { "id": "PH1303901445", "name": "Barangay 445" },
+			"geometry": { "type": "Point", "coordinates": [120.99997745, 14.60712164] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901446",
+			"properties": { "id": "PH1303901446", "name": "Barangay 446" },
+			"geometry": { "type": "Point", "coordinates": [121.00157445000001, 14.60665166] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901447",
+			"properties": { "id": "PH1303901447", "name": "Barangay 447" },
+			"geometry": { "type": "Point", "coordinates": [120.99742628, 14.60873075] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901448",
+			"properties": { "id": "PH1303901448", "name": "Barangay 448" },
+			"geometry": { "type": "Point", "coordinates": [120.99834237, 14.60756661] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901449",
+			"properties": { "id": "PH1303901449", "name": "Barangay 449" },
+			"geometry": { "type": "Point", "coordinates": [120.99679589, 14.60815062] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901450",
+			"properties": { "id": "PH1303901450", "name": "Barangay 450" },
+			"geometry": { "type": "Point", "coordinates": [120.99680954, 14.61175927] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901451",
+			"properties": { "id": "PH1303901451", "name": "Barangay 451" },
+			"geometry": { "type": "Point", "coordinates": [120.99632018, 14.61100636] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901452",
+			"properties": { "id": "PH1303901452", "name": "Barangay 452" },
+			"geometry": { "type": "Point", "coordinates": [120.9953318, 14.61089842] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901453",
+			"properties": { "id": "PH1303901453", "name": "Barangay 453" },
+			"geometry": { "type": "Point", "coordinates": [120.99638998, 14.60978754] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901454",
+			"properties": { "id": "PH1303901454", "name": "Barangay 454" },
+			"geometry": { "type": "Point", "coordinates": [120.99451843, 14.61015331] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901455",
+			"properties": { "id": "PH1303901455", "name": "Barangay 455" },
+			"geometry": { "type": "Point", "coordinates": [120.99558351, 14.60906084] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901456",
+			"properties": { "id": "PH1303901456", "name": "Barangay 456" },
+			"geometry": { "type": "Point", "coordinates": [120.99440379000001, 14.6089222] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901457",
+			"properties": { "id": "PH1303901457", "name": "Barangay 457" },
+			"geometry": { "type": "Point", "coordinates": [120.99284829, 14.60747288] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901458",
+			"properties": { "id": "PH1303901458", "name": "Barangay 458" },
+			"geometry": { "type": "Point", "coordinates": [120.99270877, 14.60594703] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901459",
+			"properties": { "id": "PH1303901459", "name": "Barangay 459" },
+			"geometry": { "type": "Point", "coordinates": [120.99151801, 14.6074176] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901460",
+			"properties": { "id": "PH1303901460", "name": "Barangay 460" },
+			"geometry": { "type": "Point", "coordinates": [120.99306382, 14.60827376] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901461",
+			"properties": { "id": "PH1303901461", "name": "Barangay 461" },
+			"geometry": { "type": "Point", "coordinates": [120.9939909, 14.6086098] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901462",
+			"properties": { "id": "PH1303901462", "name": "Barangay 462" },
+			"geometry": { "type": "Point", "coordinates": [120.98726286, 14.60587372] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901463",
+			"properties": { "id": "PH1303901463", "name": "Barangay 463" },
+			"geometry": { "type": "Point", "coordinates": [120.98659628, 14.60698704] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901464",
+			"properties": { "id": "PH1303901464", "name": "Barangay 464" },
+			"geometry": { "type": "Point", "coordinates": [120.98595999, 14.60587372] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901465",
+			"properties": { "id": "PH1303901465", "name": "Barangay 465" },
+			"geometry": { "type": "Point", "coordinates": [120.98761366, 14.60803833] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901466",
+			"properties": { "id": "PH1303901466", "name": "Barangay 466" },
+			"geometry": { "type": "Point", "coordinates": [120.98667547, 14.60873082] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901467",
+			"properties": { "id": "PH1303901467", "name": "Barangay 467" },
+			"geometry": { "type": "Point", "coordinates": [120.98704938, 14.60758144] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901468",
+			"properties": { "id": "PH1303901468", "name": "Barangay 468" },
+			"geometry": { "type": "Point", "coordinates": [120.98812267, 14.60646382] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901469",
+			"properties": { "id": "PH1303901469", "name": "Barangay 469" },
+			"geometry": { "type": "Point", "coordinates": [120.98865551, 14.60696895] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901470",
+			"properties": { "id": "PH1303901470", "name": "Barangay 470" },
+			"geometry": { "type": "Point", "coordinates": [120.98951892, 14.61010777] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901471",
+			"properties": { "id": "PH1303901471", "name": "Barangay 471" },
+			"geometry": { "type": "Point", "coordinates": [120.98705866, 14.61123181] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901472",
+			"properties": { "id": "PH1303901472", "name": "Barangay 472" },
+			"geometry": { "type": "Point", "coordinates": [120.9943658, 14.61416631] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901473",
+			"properties": { "id": "PH1303901473", "name": "Barangay 473" },
+			"geometry": { "type": "Point", "coordinates": [120.99541473, 14.61307732] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901474",
+			"properties": { "id": "PH1303901474", "name": "Barangay 474" },
+			"geometry": { "type": "Point", "coordinates": [120.99316348000001, 14.61504817] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901475",
+			"properties": { "id": "PH1303901475", "name": "Barangay 475" },
+			"geometry": { "type": "Point", "coordinates": [120.99457061, 14.6127625] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901476",
+			"properties": { "id": "PH1303901476", "name": "Barangay 476" },
+			"geometry": { "type": "Point", "coordinates": [120.99368296, 14.61249592] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901477",
+			"properties": { "id": "PH1303901477", "name": "Barangay 477" },
+			"geometry": { "type": "Point", "coordinates": [120.99214328, 14.61412108] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901478",
+			"properties": { "id": "PH1303901478", "name": "Barangay 478" },
+			"geometry": { "type": "Point", "coordinates": [120.99264026, 14.61224789] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901479",
+			"properties": { "id": "PH1303901479", "name": "Barangay 479" },
+			"geometry": { "type": "Point", "coordinates": [120.99258327, 14.61103978] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901480",
+			"properties": { "id": "PH1303901480", "name": "Barangay 480" },
+			"geometry": { "type": "Point", "coordinates": [120.99132852, 14.61337102] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901481",
+			"properties": { "id": "PH1303901481", "name": "Barangay 481" },
+			"geometry": { "type": "Point", "coordinates": [120.99060627, 14.61272104] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901482",
+			"properties": { "id": "PH1303901482", "name": "Barangay 482" },
+			"geometry": { "type": "Point", "coordinates": [120.98949841, 14.61746318] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901483",
+			"properties": { "id": "PH1303901483", "name": "Barangay 483" },
+			"geometry": { "type": "Point", "coordinates": [120.99019254, 14.61828149] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901484",
+			"properties": { "id": "PH1303901484", "name": "Barangay 484" },
+			"geometry": { "type": "Point", "coordinates": [120.98949477, 14.61944381] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901485",
+			"properties": { "id": "PH1303901485", "name": "Barangay 485" },
+			"geometry": { "type": "Point", "coordinates": [120.99120726, 14.61722061] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901486",
+			"properties": { "id": "PH1303901486", "name": "Barangay 486" },
+			"geometry": { "type": "Point", "coordinates": [120.99032248, 14.61640502] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901487",
+			"properties": { "id": "PH1303901487", "name": "Barangay 487" },
+			"geometry": { "type": "Point", "coordinates": [120.99221092000001, 14.61615817] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901488",
+			"properties": { "id": "PH1303901488", "name": "Barangay 488" },
+			"geometry": { "type": "Point", "coordinates": [120.99125389, 14.61528384] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901489",
+			"properties": { "id": "PH1303901489", "name": "Barangay 489" },
+			"geometry": { "type": "Point", "coordinates": [120.99030506, 14.61442349] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901490",
+			"properties": { "id": "PH1303901490", "name": "Barangay 490" },
+			"geometry": { "type": "Point", "coordinates": [120.98921708, 14.61418146] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901491",
+			"properties": { "id": "PH1303901491", "name": "Barangay 491" },
+			"geometry": { "type": "Point", "coordinates": [120.9894515, 14.61587856] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901492",
+			"properties": { "id": "PH1303901492", "name": "Barangay 492" },
+			"geometry": { "type": "Point", "coordinates": [120.9902819, 14.62402738] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901493",
+			"properties": { "id": "PH1303901493", "name": "Barangay 493" },
+			"geometry": { "type": "Point", "coordinates": [120.98975183, 14.62492606] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901494",
+			"properties": { "id": "PH1303901494", "name": "Barangay 494" },
+			"geometry": { "type": "Point", "coordinates": [120.99230668, 14.62218591] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901495",
+			"properties": { "id": "PH1303901495", "name": "Barangay 495" },
+			"geometry": { "type": "Point", "coordinates": [120.99118016, 14.62309043] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901496",
+			"properties": { "id": "PH1303901496", "name": "Barangay 496" },
+			"geometry": { "type": "Point", "coordinates": [120.99388878000001, 14.62154403] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901497",
+			"properties": { "id": "PH1303901497", "name": "Barangay 497" },
+			"geometry": { "type": "Point", "coordinates": [120.98990491000001, 14.62199423] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901498",
+			"properties": { "id": "PH1303901498", "name": "Barangay 498" },
+			"geometry": { "type": "Point", "coordinates": [120.99285003, 14.62070382] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901499",
+			"properties": { "id": "PH1303901499", "name": "Barangay 499" },
+			"geometry": { "type": "Point", "coordinates": [120.99113877000001, 14.61914716] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901500",
+			"properties": { "id": "PH1303901500", "name": "Barangay 500" },
+			"geometry": { "type": "Point", "coordinates": [120.99056855000001, 14.62060522] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901501",
+			"properties": { "id": "PH1303901501", "name": "Barangay 501" },
+			"geometry": { "type": "Point", "coordinates": [120.99198259000001, 14.61991718] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901502",
+			"properties": { "id": "PH1303901502", "name": "Barangay 502" },
+			"geometry": { "type": "Point", "coordinates": [120.99714023, 14.61463826] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901503",
+			"properties": { "id": "PH1303901503", "name": "Barangay 503" },
+			"geometry": { "type": "Point", "coordinates": [120.9962852, 14.61385382] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901504",
+			"properties": { "id": "PH1303901504", "name": "Barangay 504" },
+			"geometry": { "type": "Point", "coordinates": [120.99596184000001, 14.61562122] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901505",
+			"properties": { "id": "PH1303901505", "name": "Barangay 505" },
+			"geometry": { "type": "Point", "coordinates": [120.99509027000001, 14.6148574] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901506",
+			"properties": { "id": "PH1303901506", "name": "Barangay 506" },
+			"geometry": { "type": "Point", "coordinates": [120.99508861, 14.61680346] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901507",
+			"properties": { "id": "PH1303901507", "name": "Barangay 507" },
+			"geometry": { "type": "Point", "coordinates": [120.99421961, 14.61601048] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901508",
+			"properties": { "id": "PH1303901508", "name": "Barangay 508" },
+			"geometry": { "type": "Point", "coordinates": [120.9940094, 14.61781185] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901509",
+			"properties": { "id": "PH1303901509", "name": "Barangay 509" },
+			"geometry": { "type": "Point", "coordinates": [120.99315295, 14.61701572] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901510",
+			"properties": { "id": "PH1303901510", "name": "Barangay 510" },
+			"geometry": { "type": "Point", "coordinates": [120.99299766, 14.61885471] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901511",
+			"properties": { "id": "PH1303901511", "name": "Barangay 511" },
+			"geometry": { "type": "Point", "coordinates": [120.99213967, 14.61808056] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901512",
+			"properties": { "id": "PH1303901512", "name": "Barangay 512" },
+			"geometry": { "type": "Point", "coordinates": [120.99960932, 14.6173105] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901513",
+			"properties": { "id": "PH1303901513", "name": "Barangay 513" },
+			"geometry": { "type": "Point", "coordinates": [120.99787043000001, 14.61702013] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901514",
+			"properties": { "id": "PH1303901514", "name": "Barangay 514" },
+			"geometry": { "type": "Point", "coordinates": [120.99506675000001, 14.61876298] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901515",
+			"properties": { "id": "PH1303901515", "name": "Barangay 515" },
+			"geometry": { "type": "Point", "coordinates": [120.99700629, 14.61933066] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901516",
+			"properties": { "id": "PH1303901516", "name": "Barangay 516" },
+			"geometry": { "type": "Point", "coordinates": [120.99522544, 14.62092231] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901517",
+			"properties": { "id": "PH1303901517", "name": "Barangay 517" },
+			"geometry": { "type": "Point", "coordinates": [120.99794671, 14.61538329] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901518",
+			"properties": { "id": "PH1303901518", "name": "Barangay 518" },
+			"geometry": { "type": "Point", "coordinates": [120.99406171, 14.61982725] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901519",
+			"properties": { "id": "PH1303901519", "name": "Barangay 519" },
+			"geometry": { "type": "Point", "coordinates": [120.99690079, 14.61647494] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901520",
+			"properties": { "id": "PH1303901520", "name": "Barangay 520" },
+			"geometry": { "type": "Point", "coordinates": [120.99622576, 14.61783327] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901521",
+			"properties": { "id": "PH1303901521", "name": "Barangay 521" },
+			"geometry": { "type": "Point", "coordinates": [120.99808716, 14.61197452] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901522",
+			"properties": { "id": "PH1303901522", "name": "Barangay 522" },
+			"geometry": { "type": "Point", "coordinates": [120.99835763, 14.61274381] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901523",
+			"properties": { "id": "PH1303901523", "name": "Barangay 523" },
+			"geometry": { "type": "Point", "coordinates": [120.99915082, 14.61307429] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901524",
+			"properties": { "id": "PH1303901524", "name": "Barangay 524" },
+			"geometry": { "type": "Point", "coordinates": [120.99913286, 14.61358626] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901525",
+			"properties": { "id": "PH1303901525", "name": "Barangay 525" },
+			"geometry": { "type": "Point", "coordinates": [121.00049225, 14.61353444] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901526",
+			"properties": { "id": "PH1303901526", "name": "Barangay 526" },
+			"geometry": { "type": "Point", "coordinates": [120.99980574, 14.61442968] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901527",
+			"properties": { "id": "PH1303901527", "name": "Barangay 527" },
+			"geometry": { "type": "Point", "coordinates": [121.00245986, 14.61396695] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901528",
+			"properties": { "id": "PH1303901528", "name": "Barangay 528" },
+			"geometry": { "type": "Point", "coordinates": [121.000178, 14.61534314] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901529",
+			"properties": { "id": "PH1303901529", "name": "Barangay 529" },
+			"geometry": { "type": "Point", "coordinates": [121.00157318, 14.61423942] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901530",
+			"properties": { "id": "PH1303901530", "name": "Barangay 530" },
+			"geometry": { "type": "Point", "coordinates": [121.00090785, 14.61603131] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901531",
+			"properties": { "id": "PH1303901531", "name": "Barangay 531" },
+			"geometry": { "type": "Point", "coordinates": [121.00238984000001, 14.61545285] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901532",
+			"properties": { "id": "PH1303901532", "name": "Barangay 532" },
+			"geometry": { "type": "Point", "coordinates": [121.00148303, 14.61289399] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901533",
+			"properties": { "id": "PH1303901533", "name": "Barangay 533" },
+			"geometry": { "type": "Point", "coordinates": [121.00261746, 14.61314832] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901534",
+			"properties": { "id": "PH1303901534", "name": "Barangay 534" },
+			"geometry": { "type": "Point", "coordinates": [121.00319721, 14.61214788] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901535",
+			"properties": { "id": "PH1303901535", "name": "Barangay 535" },
+			"geometry": { "type": "Point", "coordinates": [121.00210768, 14.61174706] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901536",
+			"properties": { "id": "PH1303901536", "name": "Barangay 536" },
+			"geometry": { "type": "Point", "coordinates": [121.00411085, 14.61283471] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901537",
+			"properties": { "id": "PH1303901537", "name": "Barangay 537" },
+			"geometry": { "type": "Point", "coordinates": [121.00363852, 14.61396695] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901538",
+			"properties": { "id": "PH1303901538", "name": "Barangay 538" },
+			"geometry": { "type": "Point", "coordinates": [121.00459243, 14.61371574] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901539",
+			"properties": { "id": "PH1303901539", "name": "Barangay 539" },
+			"geometry": { "type": "Point", "coordinates": [121.00358722, 14.61095819] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901540",
+			"properties": { "id": "PH1303901540", "name": "Barangay 540" },
+			"geometry": { "type": "Point", "coordinates": [121.0054504, 14.61294322] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901541",
+			"properties": { "id": "PH1303901541", "name": "Barangay 541" },
+			"geometry": { "type": "Point", "coordinates": [121.00628625, 14.61236317] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901542",
+			"properties": { "id": "PH1303901542", "name": "Barangay 542" },
+			"geometry": { "type": "Point", "coordinates": [121.0003291, 14.60940475] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901543",
+			"properties": { "id": "PH1303901543", "name": "Barangay 543" },
+			"geometry": { "type": "Point", "coordinates": [120.99930837, 14.61046108] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901544",
+			"properties": { "id": "PH1303901544", "name": "Barangay 544" },
+			"geometry": { "type": "Point", "coordinates": [121.00050481, 14.6085825] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901545",
+			"properties": { "id": "PH1303901545", "name": "Barangay 545" },
+			"geometry": { "type": "Point", "coordinates": [121.0022263, 14.60879619] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901546",
+			"properties": { "id": "PH1303901546", "name": "Barangay 546" },
+			"geometry": { "type": "Point", "coordinates": [121.00290042, 14.60786447] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901547",
+			"properties": { "id": "PH1303901547", "name": "Barangay 547" },
+			"geometry": { "type": "Point", "coordinates": [121.00103741, 14.61122733] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901548",
+			"properties": { "id": "PH1303901548", "name": "Barangay 548" },
+			"geometry": { "type": "Point", "coordinates": [120.9997301, 14.611095] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901549",
+			"properties": { "id": "PH1303901549", "name": "Barangay 549" },
+			"geometry": { "type": "Point", "coordinates": [121.00364939000001, 14.60979882] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901550",
+			"properties": { "id": "PH1303901550", "name": "Barangay 550" },
+			"geometry": { "type": "Point", "coordinates": [121.00134499000001, 14.60835629] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901551",
+			"properties": { "id": "PH1303901551", "name": "Barangay 551" },
+			"geometry": { "type": "Point", "coordinates": [121.0023901, 14.60727321] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901552",
+			"properties": { "id": "PH1303901552", "name": "Barangay 552" },
+			"geometry": { "type": "Point", "coordinates": [121.00331722, 14.60889924] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901553",
+			"properties": { "id": "PH1303901553", "name": "Barangay 553" },
+			"geometry": { "type": "Point", "coordinates": [121.00170721000001, 14.60925487] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901554",
+			"properties": { "id": "PH1303901554", "name": "Barangay 554" },
+			"geometry": { "type": "Point", "coordinates": [121.00111759000001, 14.61006256] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901555",
+			"properties": { "id": "PH1303901555", "name": "Barangay 555" },
+			"geometry": { "type": "Point", "coordinates": [121.00799197000001, 14.61135941] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901556",
+			"properties": { "id": "PH1303901556", "name": "Barangay 556" },
+			"geometry": { "type": "Point", "coordinates": [121.00771733000001, 14.61102107] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901557",
+			"properties": { "id": "PH1303901557", "name": "Barangay 557" },
+			"geometry": { "type": "Point", "coordinates": [121.00789748, 14.61044049] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901558",
+			"properties": { "id": "PH1303901558", "name": "Barangay 558" },
+			"geometry": { "type": "Point", "coordinates": [121.00658302, 14.61101723] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901559",
+			"properties": { "id": "PH1303901559", "name": "Barangay 559" },
+			"geometry": { "type": "Point", "coordinates": [121.00682101, 14.61038287] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901560",
+			"properties": { "id": "PH1303901560", "name": "Barangay 560" },
+			"geometry": { "type": "Point", "coordinates": [121.00958221, 14.60989699] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901561",
+			"properties": { "id": "PH1303901561", "name": "Barangay 561" },
+			"geometry": { "type": "Point", "coordinates": [121.00654068, 14.6100417] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901562",
+			"properties": { "id": "PH1303901562", "name": "Barangay 562" },
+			"geometry": { "type": "Point", "coordinates": [121.00620265000001, 14.60962668] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901563",
+			"properties": { "id": "PH1303901563", "name": "Barangay 563" },
+			"geometry": { "type": "Point", "coordinates": [121.00593023, 14.60929107] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901564",
+			"properties": { "id": "PH1303901564", "name": "Barangay 564" },
+			"geometry": { "type": "Point", "coordinates": [121.00570316, 14.60900957] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901565",
+			"properties": { "id": "PH1303901565", "name": "Barangay 565" },
+			"geometry": { "type": "Point", "coordinates": [121.00621052, 14.60804415] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901566",
+			"properties": { "id": "PH1303901566", "name": "Barangay 566" },
+			"geometry": { "type": "Point", "coordinates": [121.00803408, 14.60800205] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901567",
+			"properties": { "id": "PH1303901567", "name": "Barangay 567" },
+			"geometry": { "type": "Point", "coordinates": [121.00583848, 14.60758185] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901568",
+			"properties": { "id": "PH1303901568", "name": "Barangay 568" },
+			"geometry": { "type": "Point", "coordinates": [121.00892314, 14.60908749] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901569",
+			"properties": { "id": "PH1303901569", "name": "Barangay 569" },
+			"geometry": { "type": "Point", "coordinates": [121.00791829000001, 14.60504181] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901570",
+			"properties": { "id": "PH1303901570", "name": "Barangay 570" },
+			"geometry": { "type": "Point", "coordinates": [121.00611534, 14.60425216] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901571",
+			"properties": { "id": "PH1303901571", "name": "Barangay 571" },
+			"geometry": { "type": "Point", "coordinates": [121.00551225, 14.60507835] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901572",
+			"properties": { "id": "PH1303901572", "name": "Barangay 572" },
+			"geometry": { "type": "Point", "coordinates": [121.00632939, 14.6061228] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901573",
+			"properties": { "id": "PH1303901573", "name": "Barangay 573" },
+			"geometry": { "type": "Point", "coordinates": [121.0039245, 14.60708274] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901574",
+			"properties": { "id": "PH1303901574", "name": "Barangay 574" },
+			"geometry": { "type": "Point", "coordinates": [121.00475277, 14.60624175] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901575",
+			"properties": { "id": "PH1303901575", "name": "Barangay 575" },
+			"geometry": { "type": "Point", "coordinates": [121.0053488, 14.6069784] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901576",
+			"properties": { "id": "PH1303901576", "name": "Barangay 576" },
+			"geometry": { "type": "Point", "coordinates": [121.00422357, 14.60525358] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901577",
+			"properties": { "id": "PH1303901577", "name": "Barangay 577" },
+			"geometry": { "type": "Point", "coordinates": [121.00433525, 14.60786837] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901578",
+			"properties": { "id": "PH1303901578", "name": "Barangay 578" },
+			"geometry": { "type": "Point", "coordinates": [121.00912273, 14.60385572] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901579",
+			"properties": { "id": "PH1303901579", "name": "Barangay 579" },
+			"geometry": { "type": "Point", "coordinates": [121.00923868, 14.60276214] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901580",
+			"properties": { "id": "PH1303901580", "name": "Barangay 580" },
+			"geometry": { "type": "Point", "coordinates": [121.00730167, 14.60414419] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901581",
+			"properties": { "id": "PH1303901581", "name": "Barangay 581" },
+			"geometry": { "type": "Point", "coordinates": [121.00998059, 14.60545361] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901582",
+			"properties": { "id": "PH1303901582", "name": "Barangay 582" },
+			"geometry": { "type": "Point", "coordinates": [121.01065499000001, 14.60906699] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901583",
+			"properties": { "id": "PH1303901583", "name": "Barangay 583" },
+			"geometry": { "type": "Point", "coordinates": [121.01000537, 14.60857974] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901584",
+			"properties": { "id": "PH1303901584", "name": "Barangay 584" },
+			"geometry": { "type": "Point", "coordinates": [121.01134108, 14.60750272] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901585",
+			"properties": { "id": "PH1303901585", "name": "Barangay 585" },
+			"geometry": { "type": "Point", "coordinates": [121.01330619, 14.60429634] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901586",
+			"properties": { "id": "PH1303901586", "name": "Barangay 586" },
+			"geometry": { "type": "Point", "coordinates": [121.01546422, 14.60496744] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901587",
+			"properties": { "id": "PH1303901587", "name": "Barangay 587" },
+			"geometry": { "type": "Point", "coordinates": [121.01401771, 14.60109892] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901987",
+			"properties": { "id": "PH1303901987", "name": "Barangay 587-A" },
+			"geometry": { "type": "Point", "coordinates": [121.01547586, 14.60201482] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901588",
+			"properties": { "id": "PH1303901588", "name": "Barangay 588" },
+			"geometry": { "type": "Point", "coordinates": [121.0160187, 14.60069103] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901589",
+			"properties": { "id": "PH1303901589", "name": "Barangay 589" },
+			"geometry": { "type": "Point", "coordinates": [121.0166303, 14.59892678] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901590",
+			"properties": { "id": "PH1303901590", "name": "Barangay 590" },
+			"geometry": { "type": "Point", "coordinates": [121.01444408, 14.5981178] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901591",
+			"properties": { "id": "PH1303901591", "name": "Barangay 591" },
+			"geometry": { "type": "Point", "coordinates": [121.01525082000001, 14.59906596] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901592",
+			"properties": { "id": "PH1303901592", "name": "Barangay 592" },
+			"geometry": { "type": "Point", "coordinates": [121.01221296, 14.60058785] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901593",
+			"properties": { "id": "PH1303901593", "name": "Barangay 593" },
+			"geometry": { "type": "Point", "coordinates": [121.01084326, 14.60123769] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901594",
+			"properties": { "id": "PH1303901594", "name": "Barangay 594" },
+			"geometry": { "type": "Point", "coordinates": [121.01719967, 14.60336134] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901595",
+			"properties": { "id": "PH1303901595", "name": "Barangay 595" },
+			"geometry": { "type": "Point", "coordinates": [121.01843753, 14.60264082] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901596",
+			"properties": { "id": "PH1303901596", "name": "Barangay 596" },
+			"geometry": { "type": "Point", "coordinates": [121.01718747, 14.60125189] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901597",
+			"properties": { "id": "PH1303901597", "name": "Barangay 597" },
+			"geometry": { "type": "Point", "coordinates": [121.0186806, 14.60099689] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901598",
+			"properties": { "id": "PH1303901598", "name": "Barangay 598" },
+			"geometry": { "type": "Point", "coordinates": [121.02052413, 14.60019688] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901599",
+			"properties": { "id": "PH1303901599", "name": "Barangay 599" },
+			"geometry": { "type": "Point", "coordinates": [121.01796807, 14.59966918] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901600",
+			"properties": { "id": "PH1303901600", "name": "Barangay 600" },
+			"geometry": { "type": "Point", "coordinates": [121.01955988, 14.5982018] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901601",
+			"properties": { "id": "PH1303901601", "name": "Barangay 601" },
+			"geometry": { "type": "Point", "coordinates": [121.02270345, 14.5981236] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901602",
+			"properties": { "id": "PH1303901602", "name": "Barangay 602" },
+			"geometry": { "type": "Point", "coordinates": [121.02299211, 14.59620389] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901603",
+			"properties": { "id": "PH1303901603", "name": "Barangay 603" },
+			"geometry": { "type": "Point", "coordinates": [121.01751927, 14.59651042] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901604",
+			"properties": { "id": "PH1303901604", "name": "Barangay 604" },
+			"geometry": { "type": "Point", "coordinates": [121.02199337, 14.59405001] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901605",
+			"properties": { "id": "PH1303901605", "name": "Barangay 605" },
+			"geometry": { "type": "Point", "coordinates": [121.02030188000001, 14.59523648] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901606",
+			"properties": { "id": "PH1303901606", "name": "Barangay 606" },
+			"geometry": { "type": "Point", "coordinates": [121.02282115, 14.5945919] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901607",
+			"properties": { "id": "PH1303901607", "name": "Barangay 607" },
+			"geometry": { "type": "Point", "coordinates": [121.02479468, 14.59358693] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901608",
+			"properties": { "id": "PH1303901608", "name": "Barangay 608" },
+			"geometry": { "type": "Point", "coordinates": [121.02288458, 14.59185452] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901609",
+			"properties": { "id": "PH1303901609", "name": "Barangay 609" },
+			"geometry": { "type": "Point", "coordinates": [121.0207017, 14.59164033] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901610",
+			"properties": { "id": "PH1303901610", "name": "Barangay 610" },
+			"geometry": { "type": "Point", "coordinates": [121.0181911, 14.59316641] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901611",
+			"properties": { "id": "PH1303901611", "name": "Barangay 611" },
+			"geometry": { "type": "Point", "coordinates": [121.01647727, 14.59533873] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901612",
+			"properties": { "id": "PH1303901612", "name": "Barangay 612" },
+			"geometry": { "type": "Point", "coordinates": [121.02145077, 14.59376358] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901613",
+			"properties": { "id": "PH1303901613", "name": "Barangay 613" },
+			"geometry": { "type": "Point", "coordinates": [121.01938302000001, 14.59365893] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901614",
+			"properties": { "id": "PH1303901614", "name": "Barangay 614" },
+			"geometry": { "type": "Point", "coordinates": [121.01781633, 14.59441327] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901615",
+			"properties": { "id": "PH1303901615", "name": "Barangay 615" },
+			"geometry": { "type": "Point", "coordinates": [121.01883035, 14.59519432] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901616",
+			"properties": { "id": "PH1303901616", "name": "Barangay 616" },
+			"geometry": { "type": "Point", "coordinates": [121.01852983000001, 14.59453238] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901617",
+			"properties": { "id": "PH1303901617", "name": "Barangay 617" },
+			"geometry": { "type": "Point", "coordinates": [121.022224, 14.59240056] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901618",
+			"properties": { "id": "PH1303901618", "name": "Barangay 618" },
+			"geometry": { "type": "Point", "coordinates": [121.0228172, 14.59101386] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901619",
+			"properties": { "id": "PH1303901619", "name": "Barangay 619" },
+			"geometry": { "type": "Point", "coordinates": [121.0175682, 14.59208382] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901620",
+			"properties": { "id": "PH1303901620", "name": "Barangay 620" },
+			"geometry": { "type": "Point", "coordinates": [121.02056243, 14.58998064] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901621",
+			"properties": { "id": "PH1303901621", "name": "Barangay 621" },
+			"geometry": { "type": "Point", "coordinates": [121.0143085, 14.59593214] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901622",
+			"properties": { "id": "PH1303901622", "name": "Barangay 622" },
+			"geometry": { "type": "Point", "coordinates": [121.01845647, 14.59098453] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901623",
+			"properties": { "id": "PH1303901623", "name": "Barangay 623" },
+			"geometry": { "type": "Point", "coordinates": [121.01933263, 14.58943515] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901624",
+			"properties": { "id": "PH1303901624", "name": "Barangay 624" },
+			"geometry": { "type": "Point", "coordinates": [121.01907937, 14.59046569] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901625",
+			"properties": { "id": "PH1303901625", "name": "Barangay 625" },
+			"geometry": { "type": "Point", "coordinates": [121.01763711, 14.58925013] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901626",
+			"properties": { "id": "PH1303901626", "name": "Barangay 626" },
+			"geometry": { "type": "Point", "coordinates": [121.00533367, 14.60080644] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901627",
+			"properties": { "id": "PH1303901627", "name": "Barangay 627" },
+			"geometry": { "type": "Point", "coordinates": [121.00713544, 14.60093561] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901628",
+			"properties": { "id": "PH1303901628", "name": "Barangay 628" },
+			"geometry": { "type": "Point", "coordinates": [121.00573861, 14.59851692] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901629",
+			"properties": { "id": "PH1303901629", "name": "Barangay 629" },
+			"geometry": { "type": "Point", "coordinates": [121.0091889, 14.60090828] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901630",
+			"properties": { "id": "PH1303901630", "name": "Barangay 630" },
+			"geometry": { "type": "Point", "coordinates": [121.01043176, 14.59711792] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901631",
+			"properties": { "id": "PH1303901631", "name": "Barangay 631" },
+			"geometry": { "type": "Point", "coordinates": [121.00383879, 14.60028677] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901632",
+			"properties": { "id": "PH1303901632", "name": "Barangay 632" },
+			"geometry": { "type": "Point", "coordinates": [121.0028054, 14.60029089] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901633",
+			"properties": { "id": "PH1303901633", "name": "Barangay 633" },
+			"geometry": { "type": "Point", "coordinates": [121.00242217, 14.5997827] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901634",
+			"properties": { "id": "PH1303901634", "name": "Barangay 634" },
+			"geometry": { "type": "Point", "coordinates": [121.0005534, 14.60039522] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901635",
+			"properties": { "id": "PH1303901635", "name": "Barangay 635" },
+			"geometry": { "type": "Point", "coordinates": [120.99975257, 14.59799793] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901636",
+			"properties": { "id": "PH1303901636", "name": "Barangay 636" },
+			"geometry": { "type": "Point", "coordinates": [121.00137405, 14.59737303] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901637",
+			"properties": { "id": "PH1303901637", "name": "Barangay 637" },
+			"geometry": { "type": "Point", "coordinates": [120.99708066, 14.59952091] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901638",
+			"properties": { "id": "PH1303901638", "name": "Barangay 638" },
+			"geometry": { "type": "Point", "coordinates": [120.99436941, 14.59869128] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901639",
+			"properties": { "id": "PH1303901639", "name": "Barangay 639" },
+			"geometry": { "type": "Point", "coordinates": [120.99614205, 14.59660955] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901640",
+			"properties": { "id": "PH1303901640", "name": "Barangay 640" },
+			"geometry": { "type": "Point", "coordinates": [120.99737532, 14.5981754] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901641",
+			"properties": { "id": "PH1303901641", "name": "Barangay 641" },
+			"geometry": { "type": "Point", "coordinates": [120.99199209, 14.59823253] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901642",
+			"properties": { "id": "PH1303901642", "name": "Barangay 642" },
+			"geometry": { "type": "Point", "coordinates": [120.99266027, 14.59584354] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901643",
+			"properties": { "id": "PH1303901643", "name": "Barangay 643" },
+			"geometry": { "type": "Point", "coordinates": [120.9935735, 14.59445371] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901644",
+			"properties": { "id": "PH1303901644", "name": "Barangay 644" },
+			"geometry": { "type": "Point", "coordinates": [120.99206223, 14.59348437] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901645",
+			"properties": { "id": "PH1303901645", "name": "Barangay 645" },
+			"geometry": { "type": "Point", "coordinates": [120.99102246, 14.59284653] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901646",
+			"properties": { "id": "PH1303901646", "name": "Barangay 646" },
+			"geometry": { "type": "Point", "coordinates": [120.98855955000001, 14.59284286] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901647",
+			"properties": { "id": "PH1303901647", "name": "Barangay 647" },
+			"geometry": { "type": "Point", "coordinates": [120.98471412000001, 14.59349716] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901648",
+			"properties": { "id": "PH1303901648", "name": "Barangay 648" },
+			"geometry": { "type": "Point", "coordinates": [120.98686017, 14.59356691] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901659",
+			"properties": { "id": "PH1303901659", "name": "Barangay 659" },
+			"geometry": { "type": "Point", "coordinates": [120.982862, 14.58839221] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901959",
+			"properties": { "id": "PH1303901959", "name": "Barangay 659-A" },
+			"geometry": { "type": "Point", "coordinates": [120.98122174, 14.59348409] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901660",
+			"properties": { "id": "PH1303901660", "name": "Barangay 660" },
+			"geometry": { "type": "Point", "coordinates": [120.98440047, 14.58715759] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901960",
+			"properties": { "id": "PH1303901960", "name": "Barangay 660-A" },
+			"geometry": { "type": "Point", "coordinates": [120.98520071, 14.58410363] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901661",
+			"properties": { "id": "PH1303901661", "name": "Barangay 661" },
+			"geometry": { "type": "Point", "coordinates": [120.9879625, 14.58814898] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901666",
+			"properties": { "id": "PH1303901666", "name": "Barangay 666" },
+			"geometry": { "type": "Point", "coordinates": [120.98013154, 14.58315246] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901667",
+			"properties": { "id": "PH1303901667", "name": "Barangay 667" },
+			"geometry": { "type": "Point", "coordinates": [120.97962951, 14.57838638] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901668",
+			"properties": { "id": "PH1303901668", "name": "Barangay 668" },
+			"geometry": { "type": "Point", "coordinates": [120.98151082, 14.57493222] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901669",
+			"properties": { "id": "PH1303901669", "name": "Barangay 669" },
+			"geometry": { "type": "Point", "coordinates": [120.9851254, 14.57683941] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901670",
+			"properties": { "id": "PH1303901670", "name": "Barangay 670" },
+			"geometry": { "type": "Point", "coordinates": [120.98360786000001, 14.58021887] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901663",
+			"properties": { "id": "PH1303901663", "name": "Barangay 663" },
+			"geometry": { "type": "Point", "coordinates": [120.98669818, 14.58964537] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901963",
+			"properties": { "id": "PH1303901963", "name": "Barangay 663-A" },
+			"geometry": { "type": "Point", "coordinates": [120.9886873, 14.59069941] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901664",
+			"properties": { "id": "PH1303901664", "name": "Barangay 664" },
+			"geometry": { "type": "Point", "coordinates": [120.98781721, 14.5853494] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901654",
+			"properties": { "id": "PH1303901654", "name": "Barangay 654" },
+			"geometry": { "type": "Point", "coordinates": [120.97678927, 14.59239447] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901655",
+			"properties": { "id": "PH1303901655", "name": "Barangay 655" },
+			"geometry": { "type": "Point", "coordinates": [120.97377162, 14.59076621] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901656",
+			"properties": { "id": "PH1303901656", "name": "Barangay 656" },
+			"geometry": { "type": "Point", "coordinates": [120.97143956, 14.59318056] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901657",
+			"properties": { "id": "PH1303901657", "name": "Barangay 657" },
+			"geometry": { "type": "Point", "coordinates": [120.97734883, 14.58645041] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901658",
+			"properties": { "id": "PH1303901658", "name": "Barangay 658" },
+			"geometry": { "type": "Point", "coordinates": [120.97740195, 14.58968026] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901689",
+			"properties": { "id": "PH1303901689", "name": "Barangay 689" },
+			"geometry": { "type": "Point", "coordinates": [120.99276716, 14.57369461] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901690",
+			"properties": { "id": "PH1303901690", "name": "Barangay 690" },
+			"geometry": { "type": "Point", "coordinates": [120.99174762, 14.57398978] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901691",
+			"properties": { "id": "PH1303901691", "name": "Barangay 691" },
+			"geometry": { "type": "Point", "coordinates": [120.99247929000001, 14.57270516] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901692",
+			"properties": { "id": "PH1303901692", "name": "Barangay 692" },
+			"geometry": { "type": "Point", "coordinates": [120.99152965, 14.57201059] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901693",
+			"properties": { "id": "PH1303901693", "name": "Barangay 693" },
+			"geometry": { "type": "Point", "coordinates": [120.99072848, 14.57343321] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901694",
+			"properties": { "id": "PH1303901694", "name": "Barangay 694" },
+			"geometry": { "type": "Point", "coordinates": [120.9900944, 14.575292] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901695",
+			"properties": { "id": "PH1303901695", "name": "Barangay 695" },
+			"geometry": { "type": "Point", "coordinates": [120.9917702, 14.57633366] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901696",
+			"properties": { "id": "PH1303901696", "name": "Barangay 696" },
+			"geometry": { "type": "Point", "coordinates": [120.98865353, 14.57382307] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901697",
+			"properties": { "id": "PH1303901697", "name": "Barangay 697" },
+			"geometry": { "type": "Point", "coordinates": [120.98718868, 14.57305493] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901698",
+			"properties": { "id": "PH1303901698", "name": "Barangay 698" },
+			"geometry": { "type": "Point", "coordinates": [120.98578079000001, 14.57230784] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901699",
+			"properties": { "id": "PH1303901699", "name": "Barangay 699" },
+			"geometry": { "type": "Point", "coordinates": [120.98344051, 14.57140233] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901700",
+			"properties": { "id": "PH1303901700", "name": "Barangay 700" },
+			"geometry": { "type": "Point", "coordinates": [120.98517382, 14.56903387] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901701",
+			"properties": { "id": "PH1303901701", "name": "Barangay 701" },
+			"geometry": { "type": "Point", "coordinates": [120.98586672, 14.56656469] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901702",
+			"properties": { "id": "PH1303901702", "name": "Barangay 702" },
+			"geometry": { "type": "Point", "coordinates": [120.98757697000001, 14.56999023] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901703",
+			"properties": { "id": "PH1303901703", "name": "Barangay 703" },
+			"geometry": { "type": "Point", "coordinates": [120.98991331000001, 14.57077702] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901704",
+			"properties": { "id": "PH1303901704", "name": "Barangay 704" },
+			"geometry": { "type": "Point", "coordinates": [120.98802429, 14.56780723] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901705",
+			"properties": { "id": "PH1303901705", "name": "Barangay 705" },
+			"geometry": { "type": "Point", "coordinates": [120.98878975, 14.5683805] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901706",
+			"properties": { "id": "PH1303901706", "name": "Barangay 706" },
+			"geometry": { "type": "Point", "coordinates": [120.98977871, 14.5690482] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901707",
+			"properties": { "id": "PH1303901707", "name": "Barangay 707" },
+			"geometry": { "type": "Point", "coordinates": [120.99032267, 14.56809872] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901708",
+			"properties": { "id": "PH1303901708", "name": "Barangay 708" },
+			"geometry": { "type": "Point", "coordinates": [120.9921555, 14.56636816] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901709",
+			"properties": { "id": "PH1303901709", "name": "Barangay 709" },
+			"geometry": { "type": "Point", "coordinates": [120.99228955, 14.56782824] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901710",
+			"properties": { "id": "PH1303901710", "name": "Barangay 710" },
+			"geometry": { "type": "Point", "coordinates": [120.9901483, 14.56738258] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901711",
+			"properties": { "id": "PH1303901711", "name": "Barangay 711" },
+			"geometry": { "type": "Point", "coordinates": [120.99054644, 14.56671261] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901712",
+			"properties": { "id": "PH1303901712", "name": "Barangay 712" },
+			"geometry": { "type": "Point", "coordinates": [120.99118197, 14.56764775] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901713",
+			"properties": { "id": "PH1303901713", "name": "Barangay 713" },
+			"geometry": { "type": "Point", "coordinates": [120.99138107, 14.56616287] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901714",
+			"properties": { "id": "PH1303901714", "name": "Barangay 714" },
+			"geometry": { "type": "Point", "coordinates": [120.99098654, 14.56909611] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901715",
+			"properties": { "id": "PH1303901715", "name": "Barangay 715" },
+			"geometry": { "type": "Point", "coordinates": [120.99065068, 14.56590311] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901716",
+			"properties": { "id": "PH1303901716", "name": "Barangay 716" },
+			"geometry": { "type": "Point", "coordinates": [120.9912922, 14.56574802] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901717",
+			"properties": { "id": "PH1303901717", "name": "Barangay 717" },
+			"geometry": { "type": "Point", "coordinates": [120.99192048, 14.5656511] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901718",
+			"properties": { "id": "PH1303901718", "name": "Barangay 718" },
+			"geometry": { "type": "Point", "coordinates": [120.99163074000001, 14.56521635] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901719",
+			"properties": { "id": "PH1303901719", "name": "Barangay 719" },
+			"geometry": { "type": "Point", "coordinates": [120.99027669, 14.56224297] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901720",
+			"properties": { "id": "PH1303901720", "name": "Barangay 720" },
+			"geometry": { "type": "Point", "coordinates": [120.98985464, 14.56402825] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901721",
+			"properties": { "id": "PH1303901721", "name": "Barangay 721" },
+			"geometry": { "type": "Point", "coordinates": [120.98852271, 14.56508238] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901722",
+			"properties": { "id": "PH1303901722", "name": "Barangay 722" },
+			"geometry": { "type": "Point", "coordinates": [120.99392249, 14.57215471] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901723",
+			"properties": { "id": "PH1303901723", "name": "Barangay 723" },
+			"geometry": { "type": "Point", "coordinates": [120.99306324, 14.57115043] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901724",
+			"properties": { "id": "PH1303901724", "name": "Barangay 724" },
+			"geometry": { "type": "Point", "coordinates": [120.99412944, 14.56967875] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901725",
+			"properties": { "id": "PH1303901725", "name": "Barangay 725" },
+			"geometry": { "type": "Point", "coordinates": [120.99303118, 14.56826095] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901726",
+			"properties": { "id": "PH1303901726", "name": "Barangay 726" },
+			"geometry": { "type": "Point", "coordinates": [120.9951854, 14.56731969] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901727",
+			"properties": { "id": "PH1303901727", "name": "Barangay 727" },
+			"geometry": { "type": "Point", "coordinates": [120.99548861, 14.56588214] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901728",
+			"properties": { "id": "PH1303901728", "name": "Barangay 728" },
+			"geometry": { "type": "Point", "coordinates": [120.99616491, 14.56412422] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901729",
+			"properties": { "id": "PH1303901729", "name": "Barangay 729" },
+			"geometry": { "type": "Point", "coordinates": [120.9960277, 14.56206655] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901730",
+			"properties": { "id": "PH1303901730", "name": "Barangay 730" },
+			"geometry": { "type": "Point", "coordinates": [120.99748058, 14.56270686] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901731",
+			"properties": { "id": "PH1303901731", "name": "Barangay 731" },
+			"geometry": { "type": "Point", "coordinates": [120.99660784, 14.57045436] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901732",
+			"properties": { "id": "PH1303901732", "name": "Barangay 732" },
+			"geometry": { "type": "Point", "coordinates": [120.99752942000001, 14.56995271] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901733",
+			"properties": { "id": "PH1303901733", "name": "Barangay 733" },
+			"geometry": { "type": "Point", "coordinates": [120.99700285, 14.5671921] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901738",
+			"properties": { "id": "PH1303901738", "name": "Barangay 738" },
+			"geometry": { "type": "Point", "coordinates": [120.99821825, 14.5731206] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901739",
+			"properties": { "id": "PH1303901739", "name": "Barangay 739" },
+			"geometry": { "type": "Point", "coordinates": [120.99799023, 14.57163203] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901740",
+			"properties": { "id": "PH1303901740", "name": "Barangay 740" },
+			"geometry": { "type": "Point", "coordinates": [120.99639323, 14.57307401] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901741",
+			"properties": { "id": "PH1303901741", "name": "Barangay 741" },
+			"geometry": { "type": "Point", "coordinates": [120.99640616000001, 14.57426605] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901742",
+			"properties": { "id": "PH1303901742", "name": "Barangay 742" },
+			"geometry": { "type": "Point", "coordinates": [120.99547699, 14.57393285] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901743",
+			"properties": { "id": "PH1303901743", "name": "Barangay 743" },
+			"geometry": { "type": "Point", "coordinates": [120.99504249, 14.5727655] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901744",
+			"properties": { "id": "PH1303901744", "name": "Barangay 744" },
+			"geometry": { "type": "Point", "coordinates": [120.99575921, 14.56999656] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901688",
+			"properties": { "id": "PH1303901688", "name": "Barangay 688" },
+			"geometry": { "type": "Point", "coordinates": [120.99362155, 14.57472718] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901735",
+			"properties": { "id": "PH1303901735", "name": "Barangay 735" },
+			"geometry": { "type": "Point", "coordinates": [120.99745746000001, 14.57504444] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901736",
+			"properties": { "id": "PH1303901736", "name": "Barangay 736" },
+			"geometry": { "type": "Point", "coordinates": [120.99607968, 14.57504444] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901737",
+			"properties": { "id": "PH1303901737", "name": "Barangay 737" },
+			"geometry": { "type": "Point", "coordinates": [120.99799362, 14.57403253] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901734",
+			"properties": { "id": "PH1303901734", "name": "Barangay 734" },
+			"geometry": { "type": "Point", "coordinates": [120.99700005, 14.57637201] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901662",
+			"properties": { "id": "PH1303901662", "name": "Barangay 662" },
+			"geometry": { "type": "Point", "coordinates": [120.99290764, 14.58817508] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901964",
+			"properties": { "id": "PH1303901964", "name": "Barangay 664-A" },
+			"geometry": { "type": "Point", "coordinates": [120.99163857000001, 14.58764822] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901671",
+			"properties": { "id": "PH1303901671", "name": "Barangay 671" },
+			"geometry": { "type": "Point", "coordinates": [120.99315794, 14.58178242] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901672",
+			"properties": { "id": "PH1303901672", "name": "Barangay 672" },
+			"geometry": { "type": "Point", "coordinates": [120.99179821, 14.58326126] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901673",
+			"properties": { "id": "PH1303901673", "name": "Barangay 673" },
+			"geometry": { "type": "Point", "coordinates": [120.99189063, 14.57959554] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901674",
+			"properties": { "id": "PH1303901674", "name": "Barangay 674" },
+			"geometry": { "type": "Point", "coordinates": [120.98870232, 14.58187999] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901675",
+			"properties": { "id": "PH1303901675", "name": "Barangay 675" },
+			"geometry": { "type": "Point", "coordinates": [120.99007722, 14.57757303] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901676",
+			"properties": { "id": "PH1303901676", "name": "Barangay 676" },
+			"geometry": { "type": "Point", "coordinates": [120.98843217, 14.57950807] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901677",
+			"properties": { "id": "PH1303901677", "name": "Barangay 677" },
+			"geometry": { "type": "Point", "coordinates": [120.99411461, 14.58320867] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901678",
+			"properties": { "id": "PH1303901678", "name": "Barangay 678" },
+			"geometry": { "type": "Point", "coordinates": [120.99576632, 14.58310605] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901679",
+			"properties": { "id": "PH1303901679", "name": "Barangay 679" },
+			"geometry": { "type": "Point", "coordinates": [120.99433768, 14.57988399] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901680",
+			"properties": { "id": "PH1303901680", "name": "Barangay 680" },
+			"geometry": { "type": "Point", "coordinates": [120.99616925, 14.58098649] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901681",
+			"properties": { "id": "PH1303901681", "name": "Barangay 681" },
+			"geometry": { "type": "Point", "coordinates": [120.99626985, 14.57940585] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901682",
+			"properties": { "id": "PH1303901682", "name": "Barangay 682" },
+			"geometry": { "type": "Point", "coordinates": [120.99846424, 14.58068641] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901683",
+			"properties": { "id": "PH1303901683", "name": "Barangay 683" },
+			"geometry": { "type": "Point", "coordinates": [120.9956674, 14.57736125] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901684",
+			"properties": { "id": "PH1303901684", "name": "Barangay 684" },
+			"geometry": { "type": "Point", "coordinates": [120.99467948, 14.57744589] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901685",
+			"properties": { "id": "PH1303901685", "name": "Barangay 685" },
+			"geometry": { "type": "Point", "coordinates": [120.99666067, 14.57742974] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901809",
+			"properties": { "id": "PH1303901809", "name": "Barangay 809" },
+			"geometry": { "type": "Point", "coordinates": [120.99999226, 14.57684508] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901810",
+			"properties": { "id": "PH1303901810", "name": "Barangay 810" },
+			"geometry": { "type": "Point", "coordinates": [120.99922824, 14.57589671] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901811",
+			"properties": { "id": "PH1303901811", "name": "Barangay 811" },
+			"geometry": { "type": "Point", "coordinates": [120.99775734000001, 14.57727498] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901812",
+			"properties": { "id": "PH1303901812", "name": "Barangay 812" },
+			"geometry": { "type": "Point", "coordinates": [121.00205891, 14.57780914] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901813",
+			"properties": { "id": "PH1303901813", "name": "Barangay 813" },
+			"geometry": { "type": "Point", "coordinates": [121.0007132, 14.57748736] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901814",
+			"properties": { "id": "PH1303901814", "name": "Barangay 814" },
+			"geometry": { "type": "Point", "coordinates": [121.00143355, 14.57972353] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901815",
+			"properties": { "id": "PH1303901815", "name": "Barangay 815" },
+			"geometry": { "type": "Point", "coordinates": [121.00072909, 14.57999461] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901816",
+			"properties": { "id": "PH1303901816", "name": "Barangay 816" },
+			"geometry": { "type": "Point", "coordinates": [121.00262792, 14.57934383] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901817",
+			"properties": { "id": "PH1303901817", "name": "Barangay 817" },
+			"geometry": { "type": "Point", "coordinates": [121.00168038, 14.57904625] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901818",
+			"properties": { "id": "PH1303901818", "name": "Barangay 818" },
+			"geometry": { "type": "Point", "coordinates": [121.0035968, 14.58149256] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901819",
+			"properties": { "id": "PH1303901819", "name": "Barangay 819" },
+			"geometry": { "type": "Point", "coordinates": [121.00407935, 14.58023646] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901820",
+			"properties": { "id": "PH1303901820", "name": "Barangay 820" },
+			"geometry": { "type": "Point", "coordinates": [121.00278263, 14.5805802] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901821",
+			"properties": { "id": "PH1303901821", "name": "Barangay 821" },
+			"geometry": { "type": "Point", "coordinates": [120.99836147000001, 14.58287923] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901822",
+			"properties": { "id": "PH1303901822", "name": "Barangay 822" },
+			"geometry": { "type": "Point", "coordinates": [120.99918645, 14.58385298] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901823",
+			"properties": { "id": "PH1303901823", "name": "Barangay 823" },
+			"geometry": { "type": "Point", "coordinates": [121.00012208, 14.58317545] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901824",
+			"properties": { "id": "PH1303901824", "name": "Barangay 824" },
+			"geometry": { "type": "Point", "coordinates": [120.99916159, 14.58205052] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901825",
+			"properties": { "id": "PH1303901825", "name": "Barangay 825" },
+			"geometry": { "type": "Point", "coordinates": [121.00021561, 14.58073679] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901826",
+			"properties": { "id": "PH1303901826", "name": "Barangay 826" },
+			"geometry": { "type": "Point", "coordinates": [120.99862352, 14.58508273] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901827",
+			"properties": { "id": "PH1303901827", "name": "Barangay 827" },
+			"geometry": { "type": "Point", "coordinates": [120.99631655, 14.58486244] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901828",
+			"properties": { "id": "PH1303901828", "name": "Barangay 828" },
+			"geometry": { "type": "Point", "coordinates": [120.99821521, 14.58693151] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901829",
+			"properties": { "id": "PH1303901829", "name": "Barangay 829" },
+			"geometry": { "type": "Point", "coordinates": [120.99591476000001, 14.58987778] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901830",
+			"properties": { "id": "PH1303901830", "name": "Barangay 830" },
+			"geometry": { "type": "Point", "coordinates": [120.99913108, 14.59338676] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901831",
+			"properties": { "id": "PH1303901831", "name": "Barangay 831" },
+			"geometry": { "type": "Point", "coordinates": [120.99744018, 14.58833055] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901832",
+			"properties": { "id": "PH1303901832", "name": "Barangay 832" },
+			"geometry": { "type": "Point", "coordinates": [121.00128716, 14.59137509] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901686",
+			"properties": { "id": "PH1303901686", "name": "Barangay 686" },
+			"geometry": { "type": "Point", "coordinates": [120.99460656, 14.57635581] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901687",
+			"properties": { "id": "PH1303901687", "name": "Barangay 687" },
+			"geometry": { "type": "Point", "coordinates": [120.99315385, 14.57673569] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901833",
+			"properties": { "id": "PH1303901833", "name": "Barangay 833" },
+			"geometry": { "type": "Point", "coordinates": [121.00383601, 14.59489031] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901834",
+			"properties": { "id": "PH1303901834", "name": "Barangay 834" },
+			"geometry": { "type": "Point", "coordinates": [121.00747459, 14.59438382] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901835",
+			"properties": { "id": "PH1303901835", "name": "Barangay 835" },
+			"geometry": { "type": "Point", "coordinates": [121.00765638, 14.59182099] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901836",
+			"properties": { "id": "PH1303901836", "name": "Barangay 836" },
+			"geometry": { "type": "Point", "coordinates": [121.0111999, 14.5940852] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901837",
+			"properties": { "id": "PH1303901837", "name": "Barangay 837" },
+			"geometry": { "type": "Point", "coordinates": [121.01350521000001, 14.59234194] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901838",
+			"properties": { "id": "PH1303901838", "name": "Barangay 838" },
+			"geometry": { "type": "Point", "coordinates": [121.01137583000001, 14.59252075] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901839",
+			"properties": { "id": "PH1303901839", "name": "Barangay 839" },
+			"geometry": { "type": "Point", "coordinates": [121.01428556, 14.59107107] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901840",
+			"properties": { "id": "PH1303901840", "name": "Barangay 840" },
+			"geometry": { "type": "Point", "coordinates": [121.01128782000001, 14.5914787] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901841",
+			"properties": { "id": "PH1303901841", "name": "Barangay 841" },
+			"geometry": { "type": "Point", "coordinates": [120.99985106, 14.58584504] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901842",
+			"properties": { "id": "PH1303901842", "name": "Barangay 842" },
+			"geometry": { "type": "Point", "coordinates": [121.00111932, 14.58673247] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901843",
+			"properties": { "id": "PH1303901843", "name": "Barangay 843" },
+			"geometry": { "type": "Point", "coordinates": [120.99927358, 14.58776436] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901844",
+			"properties": { "id": "PH1303901844", "name": "Barangay 844" },
+			"geometry": { "type": "Point", "coordinates": [121.00025376000001, 14.58837612] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901845",
+			"properties": { "id": "PH1303901845", "name": "Barangay 845" },
+			"geometry": { "type": "Point", "coordinates": [121.00151335, 14.5887062] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901846",
+			"properties": { "id": "PH1303901846", "name": "Barangay 846" },
+			"geometry": { "type": "Point", "coordinates": [121.00229158, 14.58916735] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901847",
+			"properties": { "id": "PH1303901847", "name": "Barangay 847" },
+			"geometry": { "type": "Point", "coordinates": [121.00321743000001, 14.59037392] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901848",
+			"properties": { "id": "PH1303901848", "name": "Barangay 848" },
+			"geometry": { "type": "Point", "coordinates": [121.00411542000001, 14.59173243] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901849",
+			"properties": { "id": "PH1303901849", "name": "Barangay 849" },
+			"geometry": { "type": "Point", "coordinates": [121.00033135, 14.58444736] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901850",
+			"properties": { "id": "PH1303901850", "name": "Barangay 850" },
+			"geometry": { "type": "Point", "coordinates": [121.00103279, 14.5848967] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901851",
+			"properties": { "id": "PH1303901851", "name": "Barangay 851" },
+			"geometry": { "type": "Point", "coordinates": [121.0018571, 14.58445602] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901852",
+			"properties": { "id": "PH1303901852", "name": "Barangay 852" },
+			"geometry": { "type": "Point", "coordinates": [121.00107925, 14.58380745] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901853",
+			"properties": { "id": "PH1303901853", "name": "Barangay 853" },
+			"geometry": { "type": "Point", "coordinates": [121.00088197, 14.58317764] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901855",
+			"properties": { "id": "PH1303901855", "name": "Barangay 855" },
+			"geometry": { "type": "Point", "coordinates": [121.00278762000001, 14.58461234] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901856",
+			"properties": { "id": "PH1303901856", "name": "Barangay 856" },
+			"geometry": { "type": "Point", "coordinates": [121.00257658, 14.58791337] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901857",
+			"properties": { "id": "PH1303901857", "name": "Barangay 857" },
+			"geometry": { "type": "Point", "coordinates": [121.00365673, 14.5859212] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901858",
+			"properties": { "id": "PH1303901858", "name": "Barangay 858" },
+			"geometry": { "type": "Point", "coordinates": [121.00341756, 14.58830482] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901859",
+			"properties": { "id": "PH1303901859", "name": "Barangay 859" },
+			"geometry": { "type": "Point", "coordinates": [121.00386035, 14.58786219] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901860",
+			"properties": { "id": "PH1303901860", "name": "Barangay 860" },
+			"geometry": { "type": "Point", "coordinates": [121.00680817, 14.58940541] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901861",
+			"properties": { "id": "PH1303901861", "name": "Barangay 861" },
+			"geometry": { "type": "Point", "coordinates": [121.00700339, 14.59038924] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901862",
+			"properties": { "id": "PH1303901862", "name": "Barangay 862" },
+			"geometry": { "type": "Point", "coordinates": [121.00554041, 14.58808993] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901863",
+			"properties": { "id": "PH1303901863", "name": "Barangay 863" },
+			"geometry": { "type": "Point", "coordinates": [121.00492558000001, 14.5894056] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901864",
+			"properties": { "id": "PH1303901864", "name": "Barangay 864" },
+			"geometry": { "type": "Point", "coordinates": [121.00485798, 14.58686413] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901865",
+			"properties": { "id": "PH1303901865", "name": "Barangay 865" },
+			"geometry": { "type": "Point", "coordinates": [121.0092146, 14.58846509] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901867",
+			"properties": { "id": "PH1303901867", "name": "Barangay 867" },
+			"geometry": { "type": "Point", "coordinates": [121.00505185, 14.58404353] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901868",
+			"properties": { "id": "PH1303901868", "name": "Barangay 868" },
+			"geometry": { "type": "Point", "coordinates": [121.00424984, 14.58460827] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901870",
+			"properties": { "id": "PH1303901870", "name": "Barangay 870" },
+			"geometry": { "type": "Point", "coordinates": [121.00504151, 14.5826771] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901871",
+			"properties": { "id": "PH1303901871", "name": "Barangay 871" },
+			"geometry": { "type": "Point", "coordinates": [121.0037775, 14.58266618] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901872",
+			"properties": { "id": "PH1303901872", "name": "Barangay 872" },
+			"geometry": { "type": "Point", "coordinates": [121.00272645, 14.58298331] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901869",
+			"properties": { "id": "PH1303901869", "name": "Barangay 869" },
+			"geometry": { "type": "Point", "coordinates": [121.00509208, 14.58036214] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901649",
+			"properties": { "id": "PH1303901649", "name": "Barangay 649" },
+			"geometry": { "type": "Point", "coordinates": [120.96331286, 14.58420013] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901650",
+			"properties": { "id": "PH1303901650", "name": "Barangay 650" },
+			"geometry": { "type": "Point", "coordinates": [120.96870333, 14.58930483] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901651",
+			"properties": { "id": "PH1303901651", "name": "Barangay 651" },
+			"geometry": { "type": "Point", "coordinates": [120.97007271, 14.5874559] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901652",
+			"properties": { "id": "PH1303901652", "name": "Barangay 652" },
+			"geometry": { "type": "Point", "coordinates": [120.97121865, 14.58539641] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901653",
+			"properties": { "id": "PH1303901653", "name": "Barangay 653" },
+			"geometry": { "type": "Point", "coordinates": [120.97266742, 14.58338187] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901745",
+			"properties": { "id": "PH1303901745", "name": "Barangay 745" },
+			"geometry": { "type": "Point", "coordinates": [120.99850966, 14.56772865] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901746",
+			"properties": { "id": "PH1303901746", "name": "Barangay 746" },
+			"geometry": { "type": "Point", "coordinates": [120.99856698000001, 14.56668062] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901747",
+			"properties": { "id": "PH1303901747", "name": "Barangay 747" },
+			"geometry": { "type": "Point", "coordinates": [121.00063449, 14.56988902] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901748",
+			"properties": { "id": "PH1303901748", "name": "Barangay 748" },
+			"geometry": { "type": "Point", "coordinates": [121.00044254, 14.56882321] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901749",
+			"properties": { "id": "PH1303901749", "name": "Barangay 749" },
+			"geometry": { "type": "Point", "coordinates": [121.00139473, 14.56840423] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901750",
+			"properties": { "id": "PH1303901750", "name": "Barangay 750" },
+			"geometry": { "type": "Point", "coordinates": [120.99965123, 14.57123169] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901751",
+			"properties": { "id": "PH1303901751", "name": "Barangay 751" },
+			"geometry": { "type": "Point", "coordinates": [120.99903981, 14.57013267] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901752",
+			"properties": { "id": "PH1303901752", "name": "Barangay 752" },
+			"geometry": { "type": "Point", "coordinates": [120.99987544, 14.56787264] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901753",
+			"properties": { "id": "PH1303901753", "name": "Barangay 753" },
+			"geometry": { "type": "Point", "coordinates": [120.99826442, 14.56940054] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901755",
+			"properties": { "id": "PH1303901755", "name": "Barangay 755" },
+			"geometry": { "type": "Point", "coordinates": [120.99907884, 14.56302706] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901756",
+			"properties": { "id": "PH1303901756", "name": "Barangay 756" },
+			"geometry": { "type": "Point", "coordinates": [121.00013654, 14.56391865] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901757",
+			"properties": { "id": "PH1303901757", "name": "Barangay 757" },
+			"geometry": { "type": "Point", "coordinates": [121.00098372, 14.56479193] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901758",
+			"properties": { "id": "PH1303901758", "name": "Barangay 758" },
+			"geometry": { "type": "Point", "coordinates": [121.00188258, 14.56542759] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901759",
+			"properties": { "id": "PH1303901759", "name": "Barangay 759" },
+			"geometry": { "type": "Point", "coordinates": [121.00184087, 14.56677168] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901760",
+			"properties": { "id": "PH1303901760", "name": "Barangay 760" },
+			"geometry": { "type": "Point", "coordinates": [121.00057342, 14.56618129] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901761",
+			"properties": { "id": "PH1303901761", "name": "Barangay 761" },
+			"geometry": { "type": "Point", "coordinates": [120.99933133, 14.56557215] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901762",
+			"properties": { "id": "PH1303901762", "name": "Barangay 762" },
+			"geometry": { "type": "Point", "coordinates": [120.99813866, 14.5650333] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901763",
+			"properties": { "id": "PH1303901763", "name": "Barangay 763" },
+			"geometry": { "type": "Point", "coordinates": [121.00468647, 14.56877433] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901764",
+			"properties": { "id": "PH1303901764", "name": "Barangay 764" },
+			"geometry": { "type": "Point", "coordinates": [121.00340084, 14.56733031] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901765",
+			"properties": { "id": "PH1303901765", "name": "Barangay 765" },
+			"geometry": { "type": "Point", "coordinates": [121.00566252, 14.56976524] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901766",
+			"properties": { "id": "PH1303901766", "name": "Barangay 766" },
+			"geometry": { "type": "Point", "coordinates": [121.00654111, 14.5705877] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901767",
+			"properties": { "id": "PH1303901767", "name": "Barangay 767" },
+			"geometry": { "type": "Point", "coordinates": [121.00487482, 14.57135829] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901768",
+			"properties": { "id": "PH1303901768", "name": "Barangay 768" },
+			"geometry": { "type": "Point", "coordinates": [121.00360006, 14.57007953] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901769",
+			"properties": { "id": "PH1303901769", "name": "Barangay 769" },
+			"geometry": { "type": "Point", "coordinates": [121.00253451, 14.56895799] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901770",
+			"properties": { "id": "PH1303901770", "name": "Barangay 770" },
+			"geometry": { "type": "Point", "coordinates": [121.00864264000001, 14.57309002] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901771",
+			"properties": { "id": "PH1303901771", "name": "Barangay 771" },
+			"geometry": { "type": "Point", "coordinates": [121.00489728, 14.57375414] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901772",
+			"properties": { "id": "PH1303901772", "name": "Barangay 772" },
+			"geometry": { "type": "Point", "coordinates": [121.00627068, 14.5738748] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901773",
+			"properties": { "id": "PH1303901773", "name": "Barangay 773" },
+			"geometry": { "type": "Point", "coordinates": [121.00675701, 14.57436296] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901774",
+			"properties": { "id": "PH1303901774", "name": "Barangay 774" },
+			"geometry": { "type": "Point", "coordinates": [121.00652081, 14.57554949] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901775",
+			"properties": { "id": "PH1303901775", "name": "Barangay 775" },
+			"geometry": { "type": "Point", "coordinates": [121.00671232000001, 14.57192161] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901776",
+			"properties": { "id": "PH1303901776", "name": "Barangay 776" },
+			"geometry": { "type": "Point", "coordinates": [121.0093678, 14.57513996] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901777",
+			"properties": { "id": "PH1303901777", "name": "Barangay 777" },
+			"geometry": { "type": "Point", "coordinates": [121.00744954, 14.57660364] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901778",
+			"properties": { "id": "PH1303901778", "name": "Barangay 778" },
+			"geometry": { "type": "Point", "coordinates": [121.01031085, 14.57366486] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901779",
+			"properties": { "id": "PH1303901779", "name": "Barangay 779" },
+			"geometry": { "type": "Point", "coordinates": [121.00831046, 14.57476892] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901780",
+			"properties": { "id": "PH1303901780", "name": "Barangay 780" },
+			"geometry": { "type": "Point", "coordinates": [121.00968677, 14.57687854] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901781",
+			"properties": { "id": "PH1303901781", "name": "Barangay 781" },
+			"geometry": { "type": "Point", "coordinates": [121.00884148, 14.57775745] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901782",
+			"properties": { "id": "PH1303901782", "name": "Barangay 782" },
+			"geometry": { "type": "Point", "coordinates": [121.01033834, 14.57604604] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901783",
+			"properties": { "id": "PH1303901783", "name": "Barangay 783" },
+			"geometry": { "type": "Point", "coordinates": [121.01118147, 14.57513081] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901784",
+			"properties": { "id": "PH1303901784", "name": "Barangay 784" },
+			"geometry": { "type": "Point", "coordinates": [121.00269296, 14.57647873] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901785",
+			"properties": { "id": "PH1303901785", "name": "Barangay 785" },
+			"geometry": { "type": "Point", "coordinates": [121.00433115, 14.57514517] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901786",
+			"properties": { "id": "PH1303901786", "name": "Barangay 786" },
+			"geometry": { "type": "Point", "coordinates": [121.00301211, 14.5752596] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901787",
+			"properties": { "id": "PH1303901787", "name": "Barangay 787" },
+			"geometry": { "type": "Point", "coordinates": [121.00380696000001, 14.57698021] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901788",
+			"properties": { "id": "PH1303901788", "name": "Barangay 788" },
+			"geometry": { "type": "Point", "coordinates": [121.00331922, 14.57810941] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901789",
+			"properties": { "id": "PH1303901789", "name": "Barangay 789" },
+			"geometry": { "type": "Point", "coordinates": [121.00433576, 14.57839842] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901790",
+			"properties": { "id": "PH1303901790", "name": "Barangay 790" },
+			"geometry": { "type": "Point", "coordinates": [121.00533651000001, 14.5772729] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901791",
+			"properties": { "id": "PH1303901791", "name": "Barangay 791" },
+			"geometry": { "type": "Point", "coordinates": [121.00641177, 14.57778265] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901792",
+			"properties": { "id": "PH1303901792", "name": "Barangay 792" },
+			"geometry": { "type": "Point", "coordinates": [121.00648921, 14.57872369] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901793",
+			"properties": { "id": "PH1303901793", "name": "Barangay 793" },
+			"geometry": { "type": "Point", "coordinates": [121.00702704, 14.57944864] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901794",
+			"properties": { "id": "PH1303901794", "name": "Barangay 794" },
+			"geometry": { "type": "Point", "coordinates": [121.00179955, 14.57540408] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901795",
+			"properties": { "id": "PH1303901795", "name": "Barangay 795" },
+			"geometry": { "type": "Point", "coordinates": [121.00110391, 14.57545064] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901796",
+			"properties": { "id": "PH1303901796", "name": "Barangay 796" },
+			"geometry": { "type": "Point", "coordinates": [121.00049246, 14.57532465] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901797",
+			"properties": { "id": "PH1303901797", "name": "Barangay 797" },
+			"geometry": { "type": "Point", "coordinates": [121.00092349000001, 14.57470468] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901798",
+			"properties": { "id": "PH1303901798", "name": "Barangay 798" },
+			"geometry": { "type": "Point", "coordinates": [121.0004166, 14.57383997] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901799",
+			"properties": { "id": "PH1303901799", "name": "Barangay 799" },
+			"geometry": { "type": "Point", "coordinates": [120.99946344, 14.57411152] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901800",
+			"properties": { "id": "PH1303901800", "name": "Barangay 800" },
+			"geometry": { "type": "Point", "coordinates": [120.99875413, 14.57482711] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901801",
+			"properties": { "id": "PH1303901801", "name": "Barangay 801" },
+			"geometry": { "type": "Point", "coordinates": [121.00277943, 14.57419703] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901802",
+			"properties": { "id": "PH1303901802", "name": "Barangay 802" },
+			"geometry": { "type": "Point", "coordinates": [121.00198571, 14.57340832] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901803",
+			"properties": { "id": "PH1303901803", "name": "Barangay 803" },
+			"geometry": { "type": "Point", "coordinates": [121.00085997, 14.57210448] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901804",
+			"properties": { "id": "PH1303901804", "name": "Barangay 804" },
+			"geometry": { "type": "Point", "coordinates": [121.00401539000001, 14.57287394] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901805",
+			"properties": { "id": "PH1303901805", "name": "Barangay 805" },
+			"geometry": { "type": "Point", "coordinates": [121.00337754, 14.57208448] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901806",
+			"properties": { "id": "PH1303901806", "name": "Barangay 806" },
+			"geometry": { "type": "Point", "coordinates": [121.0024798, 14.57136885] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901807",
+			"properties": { "id": "PH1303901807", "name": "Barangay 807" },
+			"geometry": { "type": "Point", "coordinates": [121.00149913, 14.57052228] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901866",
+			"properties": { "id": "PH1303901866", "name": "Barangay 866" },
+			"geometry": { "type": "Point", "coordinates": [121.0068915, 14.58304482] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901873",
+			"properties": { "id": "PH1303901873", "name": "Barangay 873" },
+			"geometry": { "type": "Point", "coordinates": [121.01215317, 14.57980199] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901874",
+			"properties": { "id": "PH1303901874", "name": "Barangay 874" },
+			"geometry": { "type": "Point", "coordinates": [121.01177923, 14.57693282] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901875",
+			"properties": { "id": "PH1303901875", "name": "Barangay 875" },
+			"geometry": { "type": "Point", "coordinates": [121.01243978, 14.57846058] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901876",
+			"properties": { "id": "PH1303901876", "name": "Barangay 876" },
+			"geometry": { "type": "Point", "coordinates": [121.01127843, 14.58146932] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901877",
+			"properties": { "id": "PH1303901877", "name": "Barangay 877" },
+			"geometry": { "type": "Point", "coordinates": [121.00953105000001, 14.57983799] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901878",
+			"properties": { "id": "PH1303901878", "name": "Barangay 878" },
+			"geometry": { "type": "Point", "coordinates": [121.0099161, 14.57898636] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901879",
+			"properties": { "id": "PH1303901879", "name": "Barangay 879" },
+			"geometry": { "type": "Point", "coordinates": [121.01259838, 14.58195447] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901880",
+			"properties": { "id": "PH1303901880", "name": "Barangay 880" },
+			"geometry": { "type": "Point", "coordinates": [121.00909139, 14.58106688] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901881",
+			"properties": { "id": "PH1303901881", "name": "Barangay 881" },
+			"geometry": { "type": "Point", "coordinates": [121.01311816, 14.57678737] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901882",
+			"properties": { "id": "PH1303901882", "name": "Barangay 882" },
+			"geometry": { "type": "Point", "coordinates": [121.01446637, 14.57807689] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901883",
+			"properties": { "id": "PH1303901883", "name": "Barangay 883" },
+			"geometry": { "type": "Point", "coordinates": [121.01519862000001, 14.57930317] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901884",
+			"properties": { "id": "PH1303901884", "name": "Barangay 884" },
+			"geometry": { "type": "Point", "coordinates": [121.01525139, 14.58062506] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901885",
+			"properties": { "id": "PH1303901885", "name": "Barangay 885" },
+			"geometry": { "type": "Point", "coordinates": [121.01483446, 14.58242551] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901886",
+			"properties": { "id": "PH1303901886", "name": "Barangay 886" },
+			"geometry": { "type": "Point", "coordinates": [121.01620755, 14.58295306] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901887",
+			"properties": { "id": "PH1303901887", "name": "Barangay 887" },
+			"geometry": { "type": "Point", "coordinates": [121.01723438, 14.58322171] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901888",
+			"properties": { "id": "PH1303901888", "name": "Barangay 888" },
+			"geometry": { "type": "Point", "coordinates": [121.01887076, 14.58468026] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901889",
+			"properties": { "id": "PH1303901889", "name": "Barangay 889" },
+			"geometry": { "type": "Point", "coordinates": [121.01379021, 14.58380035] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901890",
+			"properties": { "id": "PH1303901890", "name": "Barangay 890" },
+			"geometry": { "type": "Point", "coordinates": [121.01609411, 14.58485083] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901891",
+			"properties": { "id": "PH1303901891", "name": "Barangay 891" },
+			"geometry": { "type": "Point", "coordinates": [121.01820068000001, 14.58573748] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901892",
+			"properties": { "id": "PH1303901892", "name": "Barangay 892" },
+			"geometry": { "type": "Point", "coordinates": [121.02095288, 14.58724561] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901893",
+			"properties": { "id": "PH1303901893", "name": "Barangay 893" },
+			"geometry": { "type": "Point", "coordinates": [121.02391947, 14.59082338] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901894",
+			"properties": { "id": "PH1303901894", "name": "Barangay 894" },
+			"geometry": { "type": "Point", "coordinates": [121.02024039, 14.58784437] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901895",
+			"properties": { "id": "PH1303901895", "name": "Barangay 895" },
+			"geometry": { "type": "Point", "coordinates": [121.02137274, 14.58863449] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901896",
+			"properties": { "id": "PH1303901896", "name": "Barangay 896" },
+			"geometry": { "type": "Point", "coordinates": [121.0150601, 14.58725196] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901897",
+			"properties": { "id": "PH1303901897", "name": "Barangay 897" },
+			"geometry": { "type": "Point", "coordinates": [121.01768013, 14.58744761] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901898",
+			"properties": { "id": "PH1303901898", "name": "Barangay 898" },
+			"geometry": { "type": "Point", "coordinates": [121.012512, 14.58771117] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901899",
+			"properties": { "id": "PH1303901899", "name": "Barangay 899" },
+			"geometry": { "type": "Point", "coordinates": [121.01112606, 14.58705211] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901900",
+			"properties": { "id": "PH1303901900", "name": "Barangay 900" },
+			"geometry": { "type": "Point", "coordinates": [121.01140146, 14.58371596] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901901",
+			"properties": { "id": "PH1303901901", "name": "Barangay 901" },
+			"geometry": { "type": "Point", "coordinates": [121.01064638, 14.58705211] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901902",
+			"properties": { "id": "PH1303901902", "name": "Barangay 902" },
+			"geometry": { "type": "Point", "coordinates": [121.01028016, 14.58703304] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901903",
+			"properties": { "id": "PH1303901903", "name": "Barangay 903" },
+			"geometry": { "type": "Point", "coordinates": [121.00965501, 14.58682982] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901904",
+			"properties": { "id": "PH1303901904", "name": "Barangay 904" },
+			"geometry": { "type": "Point", "coordinates": [121.01118266, 14.58546807] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901905",
+			"properties": { "id": "PH1303901905", "name": "Barangay 905" },
+			"geometry": { "type": "Point", "coordinates": [121.0087936, 14.58489294] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901754",
+			"properties": { "id": "PH1303901754", "name": "Barangay 754" },
+			"geometry": { "type": "Point", "coordinates": [120.99809633, 14.56861744] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901808",
+			"properties": { "id": "PH1303901808", "name": "Barangay 808" },
+			"geometry": { "type": "Point", "coordinates": [120.99865191000001, 14.57720931] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1303901918",
+			"properties": { "id": "PH1303901918", "name": "Barangay 818-A" },
+			"geometry": { "type": "Point", "coordinates": [121.00470927000001, 14.58150126] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307402001",
+			"properties": { "id": "PH1307402001", "name": "Barangka" },
+			"geometry": { "type": "Point", "coordinates": [121.08277088, 14.63572819] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307402002",
+			"properties": { "id": "PH1307402002", "name": "Calumpang" },
+			"geometry": { "type": "Point", "coordinates": [121.0853198, 14.62563696] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307402003",
+			"properties": { "id": "PH1307402003", "name": "Concepcion Uno" },
+			"geometry": { "type": "Point", "coordinates": [121.10695466, 14.65328096] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307402004",
+			"properties": { "id": "PH1307402004", "name": "Jesus de la Peña" },
+			"geometry": { "type": "Point", "coordinates": [121.09092001, 14.6348589] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307402005",
+			"properties": { "id": "PH1307402005", "name": "Malanday" },
+			"geometry": { "type": "Point", "coordinates": [121.09330586, 14.64825358] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307402006",
+			"properties": { "id": "PH1307402006", "name": "Nangka" },
+			"geometry": { "type": "Point", "coordinates": [121.10978206, 14.66938153] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307402007",
+			"properties": { "id": "PH1307402007", "name": "Parang" },
+			"geometry": { "type": "Point", "coordinates": [121.11251922, 14.66051451] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307402008",
+			"properties": { "id": "PH1307402008", "name": "San Roque" },
+			"geometry": { "type": "Point", "coordinates": [121.09877591, 14.62550281] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307402009",
+			"properties": { "id": "PH1307402009", "name": "Santa Elena (Pob.)" },
+			"geometry": { "type": "Point", "coordinates": [121.09979395000001, 14.63197347] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307402010",
+			"properties": { "id": "PH1307402010", "name": "Santo Niño" },
+			"geometry": { "type": "Point", "coordinates": [121.1008359, 14.63872264] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307402011",
+			"properties": { "id": "PH1307402011", "name": "Tañong" },
+			"geometry": { "type": "Point", "coordinates": [121.08661943, 14.6321764] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307402012",
+			"properties": { "id": "PH1307402012", "name": "Concepcion Dos" },
+			"geometry": { "type": "Point", "coordinates": [121.11970343, 14.64119138] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307402013",
+			"properties": { "id": "PH1307402013", "name": "Marikina Heights (Concepcion)" },
+			"geometry": { "type": "Point", "coordinates": [121.12021277, 14.65182225] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307402014",
+			"properties": { "id": "PH1307402014", "name": "Industrial Valley" },
+			"geometry": { "type": "Point", "coordinates": [121.07846729000001, 14.62536704] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307402015",
+			"properties": { "id": "PH1307402015", "name": "Fortune" },
+			"geometry": { "type": "Point", "coordinates": [121.12617607, 14.66051436] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307402016",
+			"properties": { "id": "PH1307402016", "name": "Tumana" },
+			"geometry": { "type": "Point", "coordinates": [121.09545337, 14.65938162] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403001",
+			"properties": { "id": "PH1307403001", "name": "Bagong Ilog" },
+			"geometry": { "type": "Point", "coordinates": [121.06965975, 14.566217] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403002",
+			"properties": { "id": "PH1307403002", "name": "Bagong Katipunan" },
+			"geometry": { "type": "Point", "coordinates": [121.07492193, 14.55838401] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403003",
+			"properties": { "id": "PH1307403003", "name": "Bambang" },
+			"geometry": { "type": "Point", "coordinates": [121.0800847, 14.55532795] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403004",
+			"properties": { "id": "PH1307403004", "name": "Buting" },
+			"geometry": { "type": "Point", "coordinates": [121.06857113, 14.55461914] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403005",
+			"properties": { "id": "PH1307403005", "name": "Caniogan" },
+			"geometry": { "type": "Point", "coordinates": [121.08074968, 14.57048184] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403006",
+			"properties": { "id": "PH1307403006", "name": "Dela Paz" },
+			"geometry": { "type": "Point", "coordinates": [121.09732732000001, 14.61398452] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403007",
+			"properties": { "id": "PH1307403007", "name": "Kalawaan" },
+			"geometry": { "type": "Point", "coordinates": [121.08734558, 14.54956552] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403008",
+			"properties": { "id": "PH1307403008", "name": "Kapasigan" },
+			"geometry": { "type": "Point", "coordinates": [121.07500361, 14.56316332] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403009",
+			"properties": { "id": "PH1307403009", "name": "Kapitolyo" },
+			"geometry": { "type": "Point", "coordinates": [121.05982354, 14.57241859] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403010",
+			"properties": { "id": "PH1307403010", "name": "Malinao" },
+			"geometry": { "type": "Point", "coordinates": [121.07835696, 14.55871142] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403011",
+			"properties": { "id": "PH1307403011", "name": "Manggahan" },
+			"geometry": { "type": "Point", "coordinates": [121.09799148, 14.60263076] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403012",
+			"properties": { "id": "PH1307403012", "name": "Maybunga" },
+			"geometry": { "type": "Point", "coordinates": [121.08964144, 14.57584493] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403013",
+			"properties": { "id": "PH1307403013", "name": "Oranbo" },
+			"geometry": { "type": "Point", "coordinates": [121.0647938, 14.57533253] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403014",
+			"properties": { "id": "PH1307403014", "name": "Palatiw" },
+			"geometry": { "type": "Point", "coordinates": [121.08463269000001, 14.56270219] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403015",
+			"properties": { "id": "PH1307403015", "name": "Pinagbuhatan" },
+			"geometry": { "type": "Point", "coordinates": [121.10159434000001, 14.54751317] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403016",
+			"properties": { "id": "PH1307403016", "name": "Pineda" },
+			"geometry": { "type": "Point", "coordinates": [121.06059395, 14.56559142] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403017",
+			"properties": { "id": "PH1307403017", "name": "Rosario" },
+			"geometry": { "type": "Point", "coordinates": [121.08806762, 14.58946369] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403018",
+			"properties": { "id": "PH1307403018", "name": "Sagad" },
+			"geometry": { "type": "Point", "coordinates": [121.07886932, 14.56571116] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403019",
+			"properties": { "id": "PH1307403019", "name": "San Antonio" },
+			"geometry": { "type": "Point", "coordinates": [121.06188691, 14.5825298] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403020",
+			"properties": { "id": "PH1307403020", "name": "San Joaquin" },
+			"geometry": { "type": "Point", "coordinates": [121.07672125000001, 14.55104348] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403021",
+			"properties": { "id": "PH1307403021", "name": "San Jose" },
+			"geometry": { "type": "Point", "coordinates": [121.07449542000001, 14.56052338] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403022",
+			"properties": { "id": "PH1307403022", "name": "San Miguel" },
+			"geometry": { "type": "Point", "coordinates": [121.08891858, 14.56654544] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403023",
+			"properties": { "id": "PH1307403023", "name": "San Nicolas (Pob.)" },
+			"geometry": { "type": "Point", "coordinates": [121.0790179, 14.56121199] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403024",
+			"properties": { "id": "PH1307403024", "name": "Santa Cruz" },
+			"geometry": { "type": "Point", "coordinates": [121.07941223, 14.562997] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403025",
+			"properties": { "id": "PH1307403025", "name": "Santa Rosa" },
+			"geometry": { "type": "Point", "coordinates": [121.06979634, 14.55792111] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403026",
+			"properties": { "id": "PH1307403026", "name": "Santo Tomas" },
+			"geometry": { "type": "Point", "coordinates": [121.08159612, 14.56273994] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403027",
+			"properties": { "id": "PH1307403027", "name": "Santolan" },
+			"geometry": { "type": "Point", "coordinates": [121.08534277, 14.61539936] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403028",
+			"properties": { "id": "PH1307403028", "name": "Sumilang" },
+			"geometry": { "type": "Point", "coordinates": [121.0737358, 14.55723732] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403029",
+			"properties": { "id": "PH1307403029", "name": "Ugong" },
+			"geometry": { "type": "Point", "coordinates": [121.07306142, 14.5820792] }
+		},
+		{
+			"type": "Feature",
+			"id": "PH1307403030",
+			"properties": { "id": "PH1307403030", "name": "Santa Lucia" },
+			"geometry": { "type": "Point", "coordinates": [121.10222736, 14.58246621] }
+		}
+	]
+}

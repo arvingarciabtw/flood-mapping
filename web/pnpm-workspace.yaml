@@ -1,0 +1,7 @@
+allowBuilds:
+  better-sqlite3: false
+  esbuild: true
+  msgpackr-extract: false
+  workerd: true
+minimumReleaseAgeExclude:
+  - maplibre-gl@6.4.0
