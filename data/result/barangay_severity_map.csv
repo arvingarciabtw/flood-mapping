@@ -1,0 +1,44 @@
+matched_city,map_unit,dominant_severity,post_count
+Manila,"(city-level, no barangay)",Mild,741
+Manila,Sampaloc,Severe,42
+Manila,Tondo,Mild,17
+Manila,Ermita,Mild,8
+Manila,Intramuros,Mild,7
+Manila,Malate,Mild,3
+Manila,Quiapo,Mild,3
+Manila,San Miguel,Mild,2
+Manila,Santa Mesa,Mild,2
+Manila,Binondo,Severe,1
+Manila,Paco,Mild,1
+Manila,Pandacan,Mild,1
+Manila,San Andres,Moderate,1
+Manila,San Nicolas,Severe,1
+Marikina,"(city-level, no barangay)",Severe,297
+Marikina,Nangka,Severe,58
+Marikina,Tumana,Severe,21
+Marikina,Malanday,Severe,19
+Marikina,Tanong,Mild,14
+Marikina,Concepcion Uno,Mild,7
+Marikina,Barangka,Severe,5
+Marikina,Kalumpang,Severe,4
+Marikina,Concepcion Dos,Mild,2
+Marikina,Marikina Heights,Mild,2
+Marikina,Industrial Valley,Mild,1
+Marikina,Santa Elena,Severe,1
+Pasig,"(city-level, no barangay)",Moderate,131
+Pasig,Santolan,Moderate,17
+Pasig,Maybunga,Moderate,6
+Pasig,Malinao,Mild,4
+Pasig,San Miguel,Severe,4
+Pasig,Ugong,Mild,4
+Pasig,Caniogan,Mild,3
+Pasig,Manggahan,Mild,3
+Pasig,Pinagbuhatan,Mild,3
+Pasig,Rosario,Mild,3
+Pasig,Bambang,Mild,2
+Pasig,Bagong Ilog,Mild,1
+Pasig,Dela Paz,Mild,1
+Pasig,Kapasigan,Severe,1
+Pasig,Pineda,Mild,1
+Pasig,San Antonio,Moderate,1
+Pasig,San Jose,Severe,1
