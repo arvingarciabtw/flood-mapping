@@ -1,8 +1,9 @@
 """Recreate the annotated text corpus and produce the Section 3.6 EDA figures.
 
-Mirrors the cleaning/geocoding logic of data/result/flood_monitoring_result.ipynb,
-but skips SocialCrawl (its severity labels are not in the repo) and the image side
-(the image archives are not in the repo). Outputs land in temp/.
+Mirrors the cleaning/geocoding logic of data/result/flood_monitoring_result.ipynb.
+The SocialCrawl labels come from data/annotated data/text/socialcrawl_annotated.csv
+(restored from git; its one Excel-corrupted id is dropped). The image side is not
+reproduced (the image archives are not in the repo). Outputs land in temp/.
 """
 
 import csv
@@ -152,6 +153,20 @@ def load_twitter():
     return tweets[["tweet_id", "platform", "source_file", "text", "label", "createdAt"]].copy()
 
 
+def load_socialcrawl():
+    path = os.path.join(ROOT, "data", "annotated data", "text", "socialcrawl_annotated.csv")
+    sc = pd.read_csv(path, dtype={"id": str})
+    sc = sc[sc["id"].str.match(r"^\d+$")].copy()
+    sc = sc.dropna(subset=["severity_label", "text", "id"])
+    sc["tweet_id"] = "tw_" + sc["id"].astype(str)
+    sc["label"] = sc["severity_label"].astype(str).str.strip()
+    sc["source_file"] = "socialcrawl_annotated.csv"
+    sc["createdAt"] = pd.to_datetime(sc["created_at"], errors="coerce", utc=True)
+    sc["platform"] = "twitter"
+    sc = sc[sc["label"] != "Not Relevant"]
+    return sc[["tweet_id", "platform", "source_file", "text", "label", "createdAt"]].copy()
+
+
 def _compile(terms):
     return [re.compile(r"\b" + re.escape(t) + r"\b", re.IGNORECASE) for t in terms]
 
@@ -205,12 +220,18 @@ def find_font():
 def build_dataset():
     fb = load_facebook()
     tw = load_twitter()
+    sc = load_socialcrawl()
     print(f"Facebook text rows: {len(fb)}")
     print(f"Twitter text rows:  {len(tw)}")
-    df = pd.concat([fb, tw], ignore_index=True).drop_duplicates(subset=["tweet_id"]).copy()
+    print(f"SocialCrawl rows:   {len(sc)}")
+    df = pd.concat([tw, fb, sc], ignore_index=True).drop_duplicates(subset=["tweet_id"]).copy()
     print(f"Combined text rows: {len(df)}")
     print("By platform:\n" + df["platform"].value_counts().to_string())
     print("Class distribution:\n" + df["label"].value_counts().to_string())
+
+    assert len(df) == 4997, len(df)
+    assert dict(df["platform"].value_counts()) == {"facebook": 4278, "twitter": 719}
+    assert dict(df["label"].value_counts()) == {"Mild": 2807, "Moderate": 1349, "Severe": 841}
 
     geo = df["text"].apply(geocode_text)
     df["matched_city"] = [g[0] for g in geo]
